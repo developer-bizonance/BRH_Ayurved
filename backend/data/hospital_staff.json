@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Dr. Hospital Doctor", "designation": "Medical Officer", "department": "OPD", "photo": null },
+  { "id": 2, "name": "Hospital Staff 2", "designation": "Staff Nurse", "department": "IPD", "photo": null }
+]

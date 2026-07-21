@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "rollNo": "BRH001",
+    "name": "Sample Student 1",
+    "subject": "Kriya Sharir",
+    "yearOfStudy": "1st Year",
+    "marksObtained": 72,
+    "totalMarks": 100,
+    "result": "Pass"
+  },
+  {
+    "id": 2,
+    "rollNo": "BRH002",
+    "name": "Sample Student 2",
+    "subject": "Rachna Sharir",
+    "yearOfStudy": "2nd Year",
+    "marksObtained": 85,
+    "totalMarks": 100,
+    "result": "Pass"
+  }
+]
