@@ -61,7 +61,7 @@ export default function Footer() {
           <div className="flex flex-col items-start space-y-5">
             <Link href="/" className="inline-block">
               <Image
-                src="/images/new_logo1.png"
+                src="/logo.png"
                 alt="B.R. Harne Ayurvedic Medical College"
                 width={80}
                 height={80}

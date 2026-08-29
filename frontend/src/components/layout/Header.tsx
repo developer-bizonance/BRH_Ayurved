@@ -347,7 +347,7 @@ export default function Header() {
               <Link href="/" className="shrink-0 hidden md:block">
                 <div className="w-[160px] h-[160px] rounded-full overflow-hidden flex items-center justify-center">
                   <Image
-                    src="/images/new_logo1.png"
+                    src="/logo.png"
                     alt="B.R. Harne Logo"
                     width={160}
                     height={160}
