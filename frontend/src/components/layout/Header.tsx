@@ -555,7 +555,7 @@ export default function Header() {
   );
 }
 
-const getIconForLabel = (label) => {
+const getIconForLabel = (label: string) => {
   switch (label.toLowerCase()) {
     case 'home': return <Home size={18} />;
     case 'about': return <Info size={18} />;
@@ -577,7 +577,7 @@ const getIconForLabel = (label) => {
   }
 };
 
-function MobileNavItem({ item, onClose, depth = 0 }) {
+function MobileNavItem({ item, onClose, depth = 0 }: { item: NavItem; onClose: () => void; depth?: number }) {
   const [open, setOpen] = useState(false);
 
   const paddingLeft = depth === 0 ? "px-6" : depth === 1 ? "pl-10 pr-6" : depth === 2 ? "pl-14 pr-6" : "pl-18 pr-6";
