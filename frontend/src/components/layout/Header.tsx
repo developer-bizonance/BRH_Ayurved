@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { Menu, X, ChevronDown } from "lucide-react";
+import { Menu, X, ChevronDown, Home, Info, BookOpen, Stethoscope, FileText, Building2, Users, GraduationCap, Link2, Phone, Fingerprint, Award, Calendar, FolderOpen, FlaskConical, TestTube, FileBadge } from "lucide-react";
 
 export interface NavItem {
   label: string;
@@ -337,15 +337,14 @@ export default function Header() {
   return (
     <>
       {/* Top Banner Section */}
-      <div className="bg-[#f8f9fa] py-4 w-full border-b border-gray-200">
-        <div className="max-w-[1600px] mx-auto px-4 lg:px-6">
-          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-
+      <div className="bg-[#f8f9fa] py-2 sm:py-4 w-full border-b border-gray-200">
+        <div className="max-w-[1600px] mx-auto px-2 lg:px-6">
+          <div className="flex flex-row items-center justify-between gap-2 sm:gap-4">
             {/* Left Section: Logo + Divider + Text */}
-            <div className="flex items-center gap-6 md:ml-6 lg:ml-40 xl:ml-40">
+            <div className="flex flex-row items-center gap-1.5 sm:gap-4 md:gap-6 md:ml-6 lg:ml-20 xl:ml-32 w-full lg:w-auto text-left">
               {/* Left Logo */}
-              <Link href="/" className="shrink-0 hidden md:block">
-                <div className="w-[160px] h-[160px] rounded-full overflow-hidden flex items-center justify-center">
+              <Link href="/" className="shrink-0">
+                <div className="w-[60px] h-[60px] sm:w-[90px] sm:h-[90px] md:w-[140px] md:h-[140px] rounded-full overflow-hidden flex items-center justify-center">
                   <Image
                     src="/logo.png"
                     alt="B.R. Harne Logo"
@@ -358,27 +357,27 @@ export default function Header() {
               </Link>
 
               {/* Vertical Orange Divider */}
-              <div className="hidden md:block w-1.5 h-40 bg-[#e8821a]"></div>
+              <div className="w-0.5 sm:w-1 md:w-1.5 h-16 sm:h-20 md:h-32 bg-[#e8821a] shrink-0"></div>
 
               {/* Text */}
-              <div className="text-center md:text-left flex-1 flex flex-col justify-center">
-                <p className="text-base md:text-xl text-[#e8821a] font-bold mb-1 tracking-wider uppercase">
+              <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2">
+                <p className="text-[7px] sm:text-[10px] md:text-sm lg:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 tracking-wider uppercase leading-tight sm:leading-snug">
                   "Jai Shree Siddhivinayak Foundation"
                 </p>
-                <h1 className="text-xl md:text-2xl lg:text-3xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-2 whitespace-nowrap">
+                <h1 className="text-[9.5px] sm:text-[14px] md:text-xl lg:text-2xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2">
                   B. R. Harne Ayurvedic Medical College Karav-Vangani
                 </h1>
-                <div className="flex flex-col items-center md:items-start gap-1 text-[11px] md:text-[13px] text-gray-800 font-medium">
-                  <p>Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
-                  <p>Affiliated to - Maharashtra University of Health Science, Nashik</p>
-                  <p>Permitted By - Government of Maharashtra</p>
+                <div className="flex flex-col items-start gap-0.5 text-[5.5px] sm:text-[8px] md:text-[11px] text-gray-800 font-medium">
+                  <p className="leading-[1.1]">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
+                  <p className="leading-[1.1]">Affiliated to - Maharashtra University of Health Science, Nashik</p>
+                  <p className="leading-[1.1]">Permitted By - Government of Maharashtra</p>
                 </div>
               </div>
             </div>
 
             {/* Right Logo (Foundation) */}
-            <div className="shrink-0 hidden md:block md:mr-6 lg:mr-20 xl:mr-20">
-              <div className="w-[160px] h-[160px] flex items-center justify-center">
+            <div className="shrink-0 hidden lg:block lg:mr-10 xl:mr-20">
+              <div className="w-[120px] h-[120px] flex items-center justify-center">
                 <Image
                   src="/images/new_logo2.jpg"
                   alt="Foundation Logo"
@@ -389,22 +388,22 @@ export default function Header() {
                 />
               </div>
             </div>
-
-            {/* Mobile Menu Toggle (Only visible on small screens) */}
-            <button
-              className="xl:hidden p-2 text-gray-700 bg-gray-200 rounded-md absolute top-4 right-4"
-              onClick={() => setMobileOpen(!mobileOpen)}
-              aria-label="Toggle menu"
-            >
-              {mobileOpen ? <X size={24} /> : <Menu size={24} />}
-            </button>
           </div>
         </div>
       </div>
 
       {/* Main Navigation Bar (Dark Grey) */}
-      <nav className="bg-[#374151] w-full sticky top-0 z-50 shadow-md">
-        <div className="max-w-[1600px] mx-auto px-1 lg:px-2">
+      <nav className="bg-[#374151] w-full sticky top-0 z-50 shadow-md relative">
+        <div className="max-w-[1600px] mx-auto px-2 lg:px-2 flex xl:block items-center justify-between xl:justify-center min-h-[44px]">
+          {/* Mobile Menu Toggle (Only visible on small screens, inside nav) */}
+          <button
+            className="xl:hidden p-1.5 my-1.5 text-white bg-[#4b5563] hover:bg-[#57B745] rounded-md transition-colors z-50 relative ml-auto"
+            onClick={() => setMobileOpen(!mobileOpen)}
+            aria-label="Toggle menu"
+          >
+            {mobileOpen ? <X size={20} /> : <Menu size={20} />}
+          </button>
+
           {/* Use flex-wrap on smaller screens, but heavily reduce padding so it fits on one line on desktop */}
           <div className="hidden xl:flex items-center justify-center w-full py-1.5">
             {navItems.map((item, idx) => (
@@ -507,9 +506,41 @@ export default function Header() {
           </div>
         </div>
 
+        {/* Mobile Nav Drawer Overlay */}
+        <div 
+          className={`xl:hidden fixed inset-0 bg-black/50 z-[100] transition-opacity duration-300 ${mobileOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}
+          onClick={() => setMobileOpen(false)}
+        />
+        
         {/* Mobile Nav Drawer */}
-        {mobileOpen && (
-          <div className="xl:hidden bg-white border-t border-gray-100 max-h-[80vh] overflow-y-auto shadow-inner absolute w-full left-0 top-full">
+        <div 
+          className={`xl:hidden fixed top-0 left-0 h-full w-[85%] max-w-[320px] bg-white z-[101] shadow-2xl overflow-y-auto transition-transform duration-300 transform ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}`}
+        >
+          {/* Drawer Header */}
+          <div className="p-4 border-b border-gray-100 flex items-center justify-between sticky top-0 bg-white z-10">
+            <div className="flex items-center gap-3">
+              <div className="w-[45px] h-[45px] rounded-full overflow-hidden flex items-center justify-center shrink-0">
+                <Image
+                  src="/logo.png"
+                  alt="B.R. Harne Logo"
+                  width={60}
+                  height={60}
+                  className="object-cover w-full h-full"
+                  unoptimized
+                />
+              </div>
+              <div className="flex flex-col">
+                <span className="text-[#e8821a] font-bold text-[10px] uppercase leading-tight">Jai Shree Siddhivinayak</span>
+                <span className="text-[#57B745] font-bold text-[11px] leading-tight">B. R. Harne Ayurvedic Medical College</span>
+              </div>
+            </div>
+            <button onClick={() => setMobileOpen(false)} className="p-2 text-gray-500 hover:bg-gray-100 rounded-full transition-colors">
+              <X size={20} />
+            </button>
+          </div>
+          
+          {/* Drawer Links */}
+          <div className="py-2">
             {navItems.map((item) => (
               <MobileNavItem
                 key={item.label}
@@ -518,13 +549,35 @@ export default function Header() {
               />
             ))}
           </div>
-        )}
+        </div>
       </nav>
     </>
   );
 }
 
-function MobileNavItem({ item, onClose, depth = 0 }: { item: NavItem; onClose: () => void; depth?: number }) {
+const getIconForLabel = (label) => {
+  switch (label.toLowerCase()) {
+    case 'home': return <Home size={18} />;
+    case 'about': return <Info size={18} />;
+    case 'academics': return <BookOpen size={18} />;
+    case 'departments': return <FlaskConical size={18} />;
+    case 'results': return <Award size={18} />;
+    case 'hospital': return <Stethoscope size={18} />;
+    case 'ncism': return <FileBadge size={18} />;
+    case 'muhs': return <FileText size={18} />;
+    case 'courses': return <GraduationCap size={18} />;
+    case 'faculty': return <Users size={18} />;
+    case 'committee/councils': return <Users size={18} />;
+    case 'admissions': return <FileText size={18} />;
+    case 'student zone': return <Award size={18} />;
+    case 'biometric attendance': return <Fingerprint size={18} />;
+    case 'imp. links': return <Link2 size={18} />;
+    case 'contact': return <Phone size={18} />;
+    default: return <FolderOpen size={18} />;
+  }
+};
+
+function MobileNavItem({ item, onClose, depth = 0 }) {
   const [open, setOpen] = useState(false);
 
   const paddingLeft = depth === 0 ? "px-6" : depth === 1 ? "pl-10 pr-6" : depth === 2 ? "pl-14 pr-6" : "pl-18 pr-6";
@@ -532,15 +585,18 @@ function MobileNavItem({ item, onClose, depth = 0 }: { item: NavItem; onClose: (
   const textColor = depth === 0 ? "text-gray-700" : "text-gray-600";
   const textSize = depth === 0 ? "text-[13px]" : "text-[11px]";
 
+  const Icon = depth === 0 ? getIconForLabel(item.label) : null;
+
   if (!item.children) {
     return (
       <Link
         href={item.href || "#"}
         target={(item.href && (item.href.toLowerCase().endsWith('.pdf') || item.href.toLowerCase().endsWith('.jpg') || item.href.toLowerCase().endsWith('.jpeg') || item.href.toLowerCase().endsWith('.png') || item.href.toLowerCase().endsWith('.gif'))) ? "_blank" : undefined}
         rel={(item.href && (item.href.toLowerCase().endsWith('.pdf') || item.href.toLowerCase().endsWith('.jpg') || item.href.toLowerCase().endsWith('.jpeg') || item.href.toLowerCase().endsWith('.png') || item.href.toLowerCase().endsWith('.gif'))) ? "noopener noreferrer" : undefined}
-        className={`block ${paddingLeft} py-4 ${textSize} font-medium ${textColor} ${bgColor} border-b border-gray-100 hover:bg-green-50 hover:text-[#57B745]`}
+        className={`flex items-center gap-3 ${paddingLeft} py-3.5 ${textSize} font-medium ${textColor} ${bgColor} border-b border-gray-100 hover:bg-green-50 hover:text-[#57B745]`}
         onClick={onClose}
       >
+        {Icon && <span className="text-[#e8821a] opacity-80">{Icon}</span>}
         {item.label}
       </Link>
     );
@@ -550,16 +606,19 @@ function MobileNavItem({ item, onClose, depth = 0 }: { item: NavItem; onClose: (
     <div className={bgColor}>
       <button
         onClick={() => setOpen(!open)}
-        className={`flex items-center justify-between w-full ${paddingLeft} py-4 ${textSize} font-medium ${textColor} border-b border-gray-100 hover:bg-gray-50`}
+        className={`flex items-center justify-between w-full ${paddingLeft} py-3.5 ${textSize} font-medium ${textColor} border-b border-gray-100 hover:bg-gray-50`}
       >
-        {item.label}
+        <div className="flex items-center gap-3">
+          {Icon && <span className="text-[#e8821a] opacity-80">{Icon}</span>}
+          <span>{item.label}</span>
+        </div>
         <ChevronDown
           size={16}
           className={`transition-transform text-gray-400 ${open ? "rotate-180 text-[#57B745]" : ""}`}
         />
       </button>
       {open && (
-        <div className="border-b border-gray-100">
+        <div className="border-b border-gray-100 bg-gray-50">
           {item.children.map((child, idx) => (
             <MobileNavItem
               key={`${child.label}-${idx}`}
