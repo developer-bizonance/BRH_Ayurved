@@ -30,7 +30,7 @@ export default function DepartmentLayout({
   mission,
   documents,
   galleryImages,
-  videos = ["https://www.youtube.com/embed/ScMzIvxBSi4"]
+  videos = []
 }: DepartmentLayoutProps) {
   return (
     <div className="bg-slate-50 min-h-screen pb-20">
@@ -42,7 +42,7 @@ export default function DepartmentLayout({
         ]} 
       />
 
-      <div className="max-w-6xl mx-auto px-4 py-4 md:py-6 bg-transparent">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-0 pb-4 md:pb-6 bg-transparent">
         
         {/* Text Sections */}
         {(basicInfo || vision || mission) && (

@@ -31,7 +31,7 @@ const navItems: NavItem[] = [
             "children": [
               {
                 "label": "College Infrastructure",
-                "href": "https://brharneayurved.in/uploads/about/college infrastructure20250331_104427.pdf"
+                "href": "/uploads/about/college infrastructure20250331_104427.pdf"
               }
             ]
           },
@@ -40,11 +40,11 @@ const navItems: NavItem[] = [
             "children": [
               {
                 "label": "NCISM Permission for AY 2025-26",
-                "href": "https://brharneayurved.in/uploads/about/NCISM Permission for AY 2025-2620260227_093710.pdf"
+                "href": "/uploads/about/NCISM Permission for AY 2025-2620260227_093710.pdf"
               },
               {
                 "label": "MUHS Affiliation 25-26",
-                "href": "https://brharneayurved.in/uploads/about/MUHS Affiliation 20260227_093845.pdf"
+                "href": "/uploads/about/MUHS Affiliation 20260227_093845.pdf"
               }
             ]
           },
@@ -53,7 +53,7 @@ const navItems: NavItem[] = [
             "children": [
               {
                 "label": "State government recognition",
-                "href": "https://brharneayurved.in/uploads/about/State government recognition 20260227_094125.pdf"
+                "href": "/uploads/about/State government recognition 20260227_094125.pdf"
               }
             ]
           },
@@ -62,23 +62,23 @@ const navItems: NavItem[] = [
             "children": [
               {
                 "label": "Mudra 2024-2025",
-                "href": "https://brharneayurved.in/uploads/about/Mudra 24 2520250626_174048.pdf"
+                "href": "/uploads/about/Mudra 24 2520250626_174048.pdf"
               },
               {
                 "label": "REPORT OF SURYANAMSKAR DAY",
-                "href": "https://brharneayurved.in/uploads/about/REPORT OF SURYANAMSKAR DAY20260123_115827.pdf"
+                "href": "/uploads/about/REPORT OF SURYANAMSKAR DAY20260123_115827.pdf"
               },
               {
                 "label": "Ayush Expo 2025",
-                "href": "https://brharneayurved.in/uploads/about/Ayush Expo 202520260124_094952.pdf"
+                "href": "/uploads/about/Ayush Expo 202520260124_094952.pdf"
               },
               {
                 "label": "Charak Jayanti 2025",
-                "href": "https://brharneayurved.in/uploads/about/Charak Jayanti 202520260227_095632.pdf"
+                "href": "/uploads/about/Charak Jayanti 202520260227_095632.pdf"
               },
               {
                 "label": "Blood Donation Camp 2025-26",
-                "href": "https://brharneayurved.in/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf"
+                "href": "/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf"
               }
             ]
           }
@@ -89,31 +89,31 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Research Publication Year 2020",
-            "href": "https://brharneayurved.in/uploads/about/Research%20and%20Publication%20202020250325_113700.pdf"
+            "href": "/uploads/about/Research and Publication 202020250325_113700.pdf"
           },
           {
             "label": "Research Publication Year 2021",
-            "href": "https://brharneayurved.in/uploads/about/Research%20and%20Publication%20202120250325_113753.pdf"
+            "href": "/uploads/about/Research and Publication 202120250325_113753.pdf"
           },
           {
             "label": "All Publication 2020-2021",
-            "href": "https://brharneayurved.in/uploads/about/Research%20and%20Publication%202020-202120250325_113837.pdf"
+            "href": "/uploads/about/Research and Publication 2020-202120250325_113837.pdf"
           },
           {
             "label": "All Publication 2022",
-            "href": "https://brharneayurved.in/uploads/about/All%20%20Publication%20202020250325_113936.pdf"
+            "href": "/uploads/about/All  Publication 202020250325_113936.pdf"
           },
           {
             "label": "Research Publication Year 2023",
-            "href": "https://brharneayurved.in/uploads/about/Research%20Publication%20Year%20202320250331_111544.pdf"
+            "href": "/uploads/about/Research Publication Year 202320250331_111544.pdf"
           },
           {
             "label": "Research Publication Year 2024",
-            "href": "https://brharneayurved.in/uploads/about/Research%20Publication%20Year%20202420250626_174910.pdf"
+            "href": "/uploads/about/Research Publication Year 202420250626_174910.pdf"
           },
           {
             "label": "Research publications 2025-26",
-            "href": "https://brharneayurved.in/uploads/about/Research%20publications%202025-2620260420_104028.pdf"
+            "href": "/uploads/about/Research publications 2025-2620260420_104028.pdf"
           }
         ]
       },
@@ -122,63 +122,63 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.2021",
-            "href": "https://brharneayurved.in/uploads/about/CME%20Rog%20Nidan%20Avum%20Vikriti%20Vigyana%20Department%20Dated%2003.04.202120250325_120646.pdf"
+            "href": "/uploads/about/CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.202120250325_120646.pdf"
           },
           {
             "label": "International-Yoga-Day",
-            "href": "https://brharneayurved.in/uploads/about/International-Yoga-Day20250325_121158.pdf"
+            "href": "/uploads/about/International-Yoga-Day20250325_121158.pdf"
           },
           {
             "label": "Report of National webinar on PANCHAKARMA",
-            "href": "https://brharneayurved.in/uploads/about/Report-of-National-webinar-on-PANCHAKARMA-AND-STHANIK-CHIKITSA-IN-STRIROGA-Dept.-of-Streerog-Prasuti-Tantra20250325_121838.pdf"
+            "href": "/uploads/about/Report-of-National-webinar-on-PANCHAKARMA-AND-STHANIK-CHIKITSA-IN-STRIROGA-Dept.-of-Streerog-Prasuti-Tantra20250325_121838.pdf"
           },
           {
             "label": "Report of ONLINE Webinar RASAANUSANDHAN 2022",
-            "href": "https://brharneayurved.in/uploads/about/Report%20of%20ONLINE%20Webinar%20RASAANUSANDHAN%20202220250331_114535.pdf"
+            "href": "/uploads/about/Report of ONLINE Webinar RASAANUSANDHAN 202220250331_114535.pdf"
           },
           {
             "label": "Report of Nadi Parikshana Workshop Dated 28.02.2022",
-            "href": "https://brharneayurved.in/uploads/about/Report%20of%20Nadi%20Parikshana%20Workshop%20Dated%2028.02.202220250331_114630.pdf"
+            "href": "/uploads/about/Report of Nadi Parikshana Workshop Dated 28.02.202220250331_114630.pdf"
           },
           {
             "label": "National Webinar on Recent Advances in Eye E.N.T",
-            "href": "https://brharneayurved.in/uploads/about/National%20Webinar%20on%20Recent%20Advances%20in%20Eye%20E.N.T%20Disorders%20Importance%20of%20Research%20Methodology%20Statistics%20Date%2008.08.202220250331_114924.pdf"
+            "href": "/uploads/about/National Webinar on Recent Advances in Eye E.N.T Disorders Importance of Research Methodology Statistics Date 08.08.202220250331_114924.pdf"
           },
           {
             "label": "Workshop on Herbal Pharmaceutical Preparations 2023",
-            "href": "https://brharneayurved.in/uploads/about/Workshop%20on%20Herbal%20Pharmaceutical%20Preparations%20202320250331_115304.pdf"
+            "href": "/uploads/about/Workshop on Herbal Pharmaceutical Preparations 202320250331_115304.pdf"
           },
           {
             "label": "Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup",
-            "href": "https://brharneayurved.in/uploads/about/Department%20of%20Kriya%20Sharir%20&%20Rachna%20Sharir%20C.M.E.%20Writeup20250331_115520.pdf"
+            "href": "/uploads/about/Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup20250331_115520.pdf"
           },
           {
             "label": "Report of awareness program on pharmacovigilance",
-            "href": "https://brharneayurved.in/uploads/about/Report%20of%20awareness%20program%20on%20pharmacovigilance%20and%20ASU%20&%20H%20drugs20250331_115752.pdf"
+            "href": "/uploads/about/Report of awareness program on pharmacovigilance and ASU & H drugs20250331_115752.pdf"
           },
           {
             "label": "Report of Quiz Competition Aug 2024",
-            "href": "https://brharneayurved.in/uploads/about/Report%20of%20Quiz%20Competition%20Aug%20202420250331_115929.pdf"
+            "href": "/uploads/about/Report of Quiz Competition Aug 202420250331_115929.pdf"
           },
           {
             "label": "Electrocardiography Workshop Report",
-            "href": "https://brharneayurved.in/uploads/about/Electrocardiography%20Workshop%20Report20250331_120149.pdf"
+            "href": "/uploads/about/Electrocardiography Workshop Report20250331_120149.pdf"
           },
           {
             "label": "CME Kriya Sharir Dept 05-11-2020",
-            "href": "https://brharneayurved.in/uploads/about/CME%20Kriya%20Sharir%20Dept%2005-11-202020250626_175955.png"
+            "href": "/uploads/about/CME Kriya Sharir Dept 05-11-202020250626_175955.png"
           },
           {
             "label": "Ayurveda Day 2025",
-            "href": "https://brharneayurved.in/uploads/about/Ayurveda%20Day%20202520251219_063859.pdf"
+            "href": "/uploads/about/Ayurveda Day 202520251219_063859.pdf"
           },
           {
             "label": "International Yoga Day 2025",
-            "href": "https://brharneayurved.in/uploads/about/International%20Yoga%20Day%20202520251219_063941.pdf"
+            "href": "/uploads/about/International Yoga Day 202520251219_063941.pdf"
           },
           {
             "label": "International Yoga Day 2026",
-            "href": "https://brharneayurved.in/uploads/about/International%20Yoga%20Day%20202620260702_065953.pdf"
+            "href": "/uploads/about/International Yoga Day 202620260702_065953.pdf"
           }
         ]
       },
@@ -187,11 +187,11 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Faculty Development Programme",
-            "href": "https://www.brharneayurved.in/uploads/about/Faculty%20Development%20Programme20250331_120450.pdf"
+            "href": "/uploads/about/Faculty Development Programme20250331_120450.pdf"
           },
           {
             "label": "Faculty Development Program 2025-26",
-            "href": "https://www.brharneayurved.in/uploads/about/Faculty%20Development%20Program%202025-2620260420_103717.pdf"
+            "href": "/uploads/about/Faculty Development Program 2025-2620260420_103717.pdf"
           }
         ]
       },
@@ -200,11 +200,11 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "NCISM Permission for AY 2025-26",
-            "href": "https://brharneayurved.in/uploads/recognition/NCISM%20Permission%20for%20AY%202025-2620260307_081556.pdf"
+            "href": "/uploads/recognition/NCISM Permission for AY 2025-2620260307_081556.pdf"
           },
           {
             "label": "MUHS Affiliation 25-26",
-            "href": "https://brharneayurved.in/uploads/recognition/MUHS%20Affiliation%2025-2620260307_081641.pdf"
+            "href": "/uploads/recognition/MUHS Affiliation 25-2620260307_081641.pdf"
           }
         ]
       }
@@ -222,131 +222,131 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Affilation-2021-22",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Affilation-2021-2220250524_033536.pdf"
+            "href": "/uploads/muhs_mandate/Affilation-2021-2220250524_033536.pdf"
           },
           {
             "label": "Permission-2021-22",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Permission-2021-2220250524_033714.pdf"
+            "href": "/uploads/muhs_mandate/Permission-2021-2220250524_033714.pdf"
           },
           {
             "label": "Seat-Matrix",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Seat-Matrix20250524_033813.pdf"
+            "href": "/uploads/muhs_mandate/Seat-Matrix20250524_033813.pdf"
           },
           {
             "label": "State Govt NOC",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/State Govt NOC20250524_034639.pdf"
+            "href": "/uploads/muhs_mandate/State Govt NOC20250524_034639.pdf"
           },
           {
             "label": "Land Documents",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Land Documents20251002_094221.pdf"
+            "href": "/uploads/muhs_mandate/Land Documents20251002_094221.pdf"
           },
           {
             "label": "Foundation Registration",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Foundation Registration20250524_034756.pdf"
+            "href": "/uploads/muhs_mandate/Foundation Registration20250524_034756.pdf"
           },
           {
             "label": "Trust Information",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Trust Information20250626_193650.pdf"
+            "href": "/uploads/muhs_mandate/Trust Information20250626_193650.pdf"
           },
           {
             "label": "Trust Deed",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Trust Deed20251002_094531.pdf"
+            "href": "/uploads/muhs_mandate/Trust Deed20251002_094531.pdf"
           },
           {
             "label": "Library",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Library20250626_194323.pdf"
+            "href": "/uploads/muhs_mandate/Library20250626_194323.pdf"
           },
           {
             "label": "Details of equipment and requirements",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Details of equipment and requirements20251002_094912.pdf"
+            "href": "/uploads/muhs_mandate/Details of equipment and requirements20251002_094912.pdf"
           },
           {
             "label": "DISSECTION HALL",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/DISSECTION HALL20251002_095005.pdf"
+            "href": "/uploads/muhs_mandate/DISSECTION HALL20251002_095005.pdf"
           },
           {
             "label": "Equ Dravyagun",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Equ Dravyagun20251002_095103.pdf"
+            "href": "/uploads/muhs_mandate/Equ Dravyagun20251002_095103.pdf"
           },
           {
             "label": "Equ Kriya Sharir",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Equ Kriya Sharir20251002_095154.pdf"
+            "href": "/uploads/muhs_mandate/Equ Kriya Sharir20251002_095154.pdf"
           },
           {
             "label": "Equ Rasashastras And Bhaishajya Kalpana",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Equ Rasashastras And Bhaishajya Kalpana20251002_095312.pdf"
+            "href": "/uploads/muhs_mandate/Equ Rasashastras And Bhaishajya Kalpana20251002_095312.pdf"
           },
           {
             "label": "Equ Rog Nidan and Vikriti Vigyan",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Equ Rog Nidan and Vikriti Vigyan20251002_095401.pdf"
+            "href": "/uploads/muhs_mandate/Equ Rog Nidan and Vikriti Vigyan20251002_095401.pdf"
           },
           {
             "label": "REQUIREMENT LABOUR ROOM",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/REQUIREMENT LABOUR ROOM20251002_095448.pdf"
+            "href": "/uploads/muhs_mandate/REQUIREMENT LABOUR ROOM20251002_095448.pdf"
           },
           {
             "label": "REQUIREMENT OPD",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/REQUIREMENT OPD20251002_095544.pdf"
+            "href": "/uploads/muhs_mandate/REQUIREMENT OPD20251002_095544.pdf"
           },
           {
             "label": "REQUIREMENT OT",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/REQUIREMENT OT20251002_095629.pdf"
+            "href": "/uploads/muhs_mandate/REQUIREMENT OT20251002_095629.pdf"
           },
           {
             "label": "OPD IPD Details",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/OPD IPD Details20251002_095743.pdf"
+            "href": "/uploads/muhs_mandate/OPD IPD Details20251002_095743.pdf"
           },
           {
             "label": "Panchakarma details",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Panchakarma details20251002_095824.pdf"
+            "href": "/uploads/muhs_mandate/Panchakarma details20251002_095824.pdf"
           },
           {
             "label": "Teaching Staff",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Teaching Staff20251002_102245.pdf"
+            "href": "/uploads/muhs_mandate/Teaching Staff20251002_102245.pdf"
           },
           {
             "label": "TEACHING STAFF LIST",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/TEACHING STAFF LIST20251002_102407.pdf"
+            "href": "/uploads/muhs_mandate/TEACHING STAFF LIST20251002_102407.pdf"
           },
           {
             "label": "Hospital Staff List",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Hospital Staff List20251002_102635.pdf"
+            "href": "/uploads/muhs_mandate/Hospital Staff List20251002_102635.pdf"
           },
           {
             "label": "Nonteaching Staff List Rotated",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Nonteaching Staff List Rotated20251002_102909.pdf"
+            "href": "/uploads/muhs_mandate/Nonteaching Staff List Rotated20251002_102909.pdf"
           },
           {
             "label": "March 2022",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/March 202220251002_103739.pdf"
+            "href": "/uploads/muhs_mandate/March 202220251002_103739.pdf"
           },
           {
             "label": "April 2022",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/April 202220251002_104341.pdf"
+            "href": "/uploads/muhs_mandate/April 202220251002_104341.pdf"
           },
           {
             "label": "May 2022",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/May 202220251002_104456.pdf"
+            "href": "/uploads/muhs_mandate/May 202220251002_104456.pdf"
           },
           {
             "label": "June 2022",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/June 202220251002_104615.pdf"
+            "href": "/uploads/muhs_mandate/June 202220251002_104615.pdf"
           },
           {
             "label": "July 2022",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/July 202220251002_104734.pdf"
+            "href": "/uploads/muhs_mandate/July 202220251002_104734.pdf"
           },
           {
             "label": "AISHE CERTIFICATE",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/AISHE CERTIFICATE20251002_104940.pdf"
+            "href": "/uploads/muhs_mandate/AISHE CERTIFICATE20251002_104940.pdf"
           },
           {
             "label": "LIC Affidavit",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/LIC Affidavit20251002_105102.pdf"
+            "href": "/uploads/muhs_mandate/LIC Affidavit20251002_105102.pdf"
           },
           {
             "label": "Research Development Programme",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Research Development Programme20251002_105302.pdf"
+            "href": "/uploads/muhs_mandate/Research Development Programme20251002_105302.pdf"
           }
         ]
       },
@@ -371,87 +371,87 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Schedule I",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule I20260227_094601.pdf"
+            "href": "/uploads/muhs_mandate/Schedule I20260227_094601.pdf"
           },
           {
             "label": "Schedule II",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule II20260227_094718.pdf"
+            "href": "/uploads/muhs_mandate/Schedule II20260227_094718.pdf"
           },
           {
             "label": "Schedule XVII",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule XVII20260227_095011.pdf"
+            "href": "/uploads/muhs_mandate/Schedule XVII20260227_095011.pdf"
           },
           {
             "label": "Schedule XX",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule XX20260227_095115.pdf"
+            "href": "/uploads/muhs_mandate/Schedule XX20260227_095115.pdf"
           },
           {
             "label": "Schedule XXII",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule XXII 20260227_095226.pdf"
+            "href": "/uploads/muhs_mandate/Schedule XXII 20260227_095226.pdf"
           },
           {
             "label": "Schedule XXXI",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule XXXI20260227_095328.pdf"
+            "href": "/uploads/muhs_mandate/Schedule XXXI20260227_095328.pdf"
           },
           {
             "label": "Schedule III",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule III20260309_105924.pdf"
+            "href": "/uploads/muhs_mandate/Schedule III20260309_105924.pdf"
           },
           {
             "label": "Schedule IV",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule IV20260309_110039.pdf"
+            "href": "/uploads/muhs_mandate/Schedule IV20260309_110039.pdf"
           },
           {
             "label": "Schedule XXIV",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule XXIV20260309_110126.pdf"
+            "href": "/uploads/muhs_mandate/Schedule XXIV20260309_110126.pdf"
           },
           {
             "label": "Schedule V",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Schedule V20260309_121926.pdf"
+            "href": "/uploads/muhs_mandate/Schedule V20260309_121926.pdf"
           },
           {
             "label": "Enclosure 1",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 120260227_110554.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 120260227_110554.pdf"
           },
           {
             "label": "Enclosure 8",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 820260227_110739.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 820260227_110739.pdf"
           },
           {
             "label": "Enclosure 5",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 520260228_053746.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 520260228_053746.pdf"
           },
           {
             "label": "Enclosure 7",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 720260228_054113.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 720260228_054113.pdf"
           },
           {
             "label": "Enclosure 6",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 620260306_110744.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 620260306_110744.pdf"
           },
           {
             "label": "Enclosure 2",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 220260310_041318.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 220260310_041318.pdf"
           },
           {
             "label": "Enclosure 4",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Enclosure 420260325_114614.pdf"
+            "href": "/uploads/muhs_mandate/Enclosure 420260325_114614.pdf"
           },
           {
             "label": "Annexure V",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Annexure V20260309_122027.pdf"
+            "href": "/uploads/muhs_mandate/Annexure V20260309_122027.pdf"
           },
           {
             "label": "Annexure VI",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Annexure VI20260309_122144.pdf"
+            "href": "/uploads/muhs_mandate/Annexure VI20260309_122144.pdf"
           },
           {
             "label": "Annexure IV",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Annexure IV20260324_053057.pdf"
+            "href": "/uploads/muhs_mandate/Annexure IV20260324_053057.pdf"
           },
           {
             "label": "Principal Declaration",
-            "href": "https://brharneayurved.in/uploads/muhs_mandate/Principal Declaration 20260228_054208.pdf"
+            "href": "/uploads/muhs_mandate/Principal Declaration 20260228_054208.pdf"
           }
         ]
       }
@@ -465,31 +465,31 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Batch 2024-25",
-            "href": "https://brharneayurved.in/uploads/academics/Batch 2024-2520250916_083027.pdf"
+            "href": "/uploads/academics/Batch 2024-2520250916_083027.pdf"
           },
           {
             "label": "FY 2024-25 Timetable",
-            "href": "https://brharneayurved.in/uploads/academics/FY 2024-25 Timetable 20260410_073247.pdf"
+            "href": "/uploads/academics/FY 2024-25 Timetable 20260410_073247.pdf"
           },
           {
             "label": "FY 2025-26 Timetable",
-            "href": "https://brharneayurved.in/uploads/academics/FY 2025-26 Timetable 20260410_073328.pdf"
+            "href": "/uploads/academics/FY 2025-26 Timetable 20260410_073328.pdf"
           },
           {
             "label": "SYBAMS batch 23-24 Timetable",
-            "href": "https://brharneayurved.in/uploads/academics/SYBAMS batch 23-24 Timetable 20260514_040424.pdf"
+            "href": "/uploads/academics/SYBAMS batch 23-24 Timetable 20260514_040424.pdf"
           },
           {
             "label": "Tybams 22-23 batch timetable",
-            "href": "https://brharneayurved.in/uploads/academics/Tybams 22-23 batch timetable 20260410_111537.pdf"
+            "href": "/uploads/academics/Tybams 22-23 batch timetable 20260410_111537.pdf"
           },
           {
             "label": "Tybams 21-22 batch timetable",
-            "href": "https://brharneayurved.in/uploads/academics/Tybams 21-22 batch timetable 20260410_111637.pdf"
+            "href": "/uploads/academics/Tybams 21-22 batch timetable 20260410_111637.pdf"
           },
           {
             "label": "TYBAMS22-23 batch timetable updated",
-            "href": "https://brharneayurved.in/uploads/academics/TYBAMS22-23 batch timetable updated20260505_065248.pdf"
+            "href": "/uploads/academics/TYBAMS22-23 batch timetable updated20260505_065248.pdf"
           }
         ]
       }
@@ -503,19 +503,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department Info",
-            "href": "https://brharneayurved.in/uploads/academics/Department Info20250331_125922.pdf"
+            "href": "/uploads/academics/Department Info20250331_125922.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250331_130029.pdf"
+            "href": "/uploads/academics/Syllabus20250331_130029.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250331_130121.pdf"
+            "href": "/uploads/academics/ATP20250331_130121.pdf"
           },
           {
             "label": "ATP batch 2025-26",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2025-2620260130_082314.pdf"
+            "href": "/uploads/academics/ATP batch 2025-2620260130_082314.pdf"
           },
           {
             "label": "Images",
@@ -528,19 +528,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/Department info20250401_003252.pdf"
+            "href": "/uploads/academics/Department info20250401_003252.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250401_003353.pdf"
+            "href": "/uploads/academics/Syllabus20250401_003353.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250401_003438.pdf"
+            "href": "/uploads/academics/ATP20250401_003438.pdf"
           },
           {
             "label": "Equipments & Instruments",
-            "href": "https://brharneayurved.in/uploads/academics/Equipments & Instruments20250401_003823.pdf"
+            "href": "/uploads/academics/Equipments & Instruments20250401_003823.pdf"
           },
           {
             "label": "Images",
@@ -553,43 +553,43 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/Department info20250401_010835.pdf"
+            "href": "/uploads/academics/Department info20250401_010835.pdf"
           },
           {
             "label": "SYLLABUS - PADARTHA VIJNANAM",
-            "href": "https://brharneayurved.in/uploads/academics/SYLLABUS - PADARTHA VIJNANAM 20250628_100508.pdf"
+            "href": "/uploads/academics/SYLLABUS - PADARTHA VIJNANAM 20250628_100508.pdf"
           },
           {
             "label": "SYLLABUS - SAMHITA ADHYAYAN - 1",
-            "href": "https://brharneayurved.in/uploads/academics/SYLLABUS - SAMHITA ADHYAYAN - 120250628_100806.pdf"
+            "href": "/uploads/academics/SYLLABUS - SAMHITA ADHYAYAN - 120250628_100806.pdf"
           },
           {
             "label": "SYLLABUS - SAMHITA ADHYAYAN - 2",
-            "href": "https://brharneayurved.in/uploads/academics/SYLLABUS - SAMHITA ADHYAYAN - 220250628_100903.pdf"
+            "href": "/uploads/academics/SYLLABUS - SAMHITA ADHYAYAN - 220250628_100903.pdf"
           },
           {
             "label": "SYLLABUS - SAMSKRITAM EVAM AYURVED ITHIHAS",
-            "href": "https://brharneayurved.in/uploads/academics/SYLLABUS - SAMSKRITAM EVAM AYURVED ITHIHAS20250628_100948.pdf"
+            "href": "/uploads/academics/SYLLABUS - SAMSKRITAM EVAM AYURVED ITHIHAS20250628_100948.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260115_065936.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260115_065936.pdf"
           },
           {
             "label": "Yearly SA1 ATP batch 2025-26",
-            "href": "https://brharneayurved.in/uploads/academics/Yearly SA1 ATP batch 2025-2620260205_114239.pdf"
+            "href": "/uploads/academics/Yearly SA1 ATP batch 2025-2620260205_114239.pdf"
           },
           {
             "label": "Yearly PV1 ATP batch 2025-26",
-            "href": "https://brharneayurved.in/uploads/academics/Yearly PV1 ATP batch 2025-2620260205_114419.pdf"
+            "href": "/uploads/academics/Yearly PV1 ATP batch 2025-2620260205_114419.pdf"
           },
           {
             "label": "Yearly SA2 ATP batch 2024-25",
-            "href": "https://brharneayurved.in/uploads/academics/Yearly SA2 ATP batch 2024-2520260205_114509.pdf"
+            "href": "/uploads/academics/Yearly SA2 ATP batch 2024-2520260205_114509.pdf"
           },
           {
             "label": "Yearly SA3 ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/Yearly SA3 ATP batch 2021-2220260205_114637.pdf"
+            "href": "/uploads/academics/Yearly SA3 ATP batch 2021-2220260205_114637.pdf"
           },
           {
             "label": "Images",
@@ -602,19 +602,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/Department info20250401_013854.pdf"
+            "href": "/uploads/academics/Department info20250401_013854.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250401_013948.pdf"
+            "href": "/uploads/academics/Syllabus20250401_013948.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250401_014030.pdf"
+            "href": "/uploads/academics/ATP20250401_014030.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260127_092452.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260127_092452.pdf"
           },
           {
             "label": "Images",
@@ -627,23 +627,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department Info",
-            "href": "https://brharneayurved.in/uploads/academics/Department Info20250401_020926.pdf"
+            "href": "/uploads/academics/Department Info20250401_020926.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250401_021001.pdf"
+            "href": "/uploads/academics/Syllabus20250401_021001.pdf"
           },
           {
             "label": "SY BAMS 2022-23 Theory ATP",
-            "href": "https://brharneayurved.in/uploads/academics/SY BAMS 2022-23 Theory ATP20250401_021041.pdf"
+            "href": "/uploads/academics/SY BAMS 2022-23 Theory ATP20250401_021041.pdf"
           },
           {
             "label": "SY BAMS 2022-23 Practical ATP",
-            "href": "https://brharneayurved.in/uploads/academics/SY BAMS 2022-23 Practical ATP20250401_021113.pdf"
+            "href": "/uploads/academics/SY BAMS 2022-23 Practical ATP20250401_021113.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260116_091239.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260116_091239.pdf"
           },
           {
             "label": "Images",
@@ -656,27 +656,27 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department Info.",
-            "href": "https://brharneayurved.in/uploads/academics/Department Info.20250401_025816.pdf"
+            "href": "/uploads/academics/Department Info.20250401_025816.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250401_025854.pdf"
+            "href": "/uploads/academics/Syllabus20250401_025854.pdf"
           },
           {
             "label": "ATP- SY Batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP- SY Batch 2021-2220250401_030220.pdf"
+            "href": "/uploads/academics/ATP- SY Batch 2021-2220250401_030220.pdf"
           },
           {
             "label": "ATP-S.Y. Batch 2022-23",
-            "href": "https://brharneayurved.in/uploads/academics/ATP-S.Y. Batch 2022-2320250401_034931.pdf"
+            "href": "/uploads/academics/ATP-S.Y. Batch 2022-2320250401_034931.pdf"
           },
           {
             "label": "Equipments & Instruments",
-            "href": "https://brharneayurved.in/uploads/academics/Equipments & Instruments20250401_035207.pdf"
+            "href": "/uploads/academics/Equipments & Instruments20250401_035207.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260116_091201.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260116_091201.pdf"
           },
           {
             "label": "Images",
@@ -689,23 +689,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department Info.",
-            "href": "https://brharneayurved.in/uploads/academics/Department Info.20250408_115347.pdf"
+            "href": "/uploads/academics/Department Info.20250408_115347.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250408_115428.pdf"
+            "href": "/uploads/academics/Syllabus20250408_115428.pdf"
           },
           {
             "label": "ATP - SY Batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP - SY Batch 2021-2220250408_115653.pdf"
+            "href": "/uploads/academics/ATP - SY Batch 2021-2220250408_115653.pdf"
           },
           {
             "label": "ATP - SY Batch 2022-23",
-            "href": "https://brharneayurved.in/uploads/academics/ATP - SY Batch 2022-2320250408_115746.pdf"
+            "href": "/uploads/academics/ATP - SY Batch 2022-2320250408_115746.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260115_065843.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260115_065843.pdf"
           },
           {
             "label": "Images",
@@ -718,27 +718,27 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department Info.",
-            "href": "https://brharneayurved.in/uploads/academics/Department Info.20250408_121234.pdf"
+            "href": "/uploads/academics/Department Info.20250408_121234.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250408_121325.pdf"
+            "href": "/uploads/academics/Syllabus20250408_121325.pdf"
           },
           {
             "label": "ATP - September 2022",
-            "href": "https://brharneayurved.in/uploads/academics/ATP - September 202220250628_102524.pdf"
+            "href": "/uploads/academics/ATP - September 202220250628_102524.pdf"
           },
           {
             "label": "ATP - October 2022",
-            "href": "https://brharneayurved.in/uploads/academics/ATP - October 202220250628_102629.pdf"
+            "href": "/uploads/academics/ATP - October 202220250628_102629.pdf"
           },
           {
             "label": "ATP  2022 -2023",
-            "href": "https://brharneayurved.in/uploads/academics/ATP  2022 -202320250628_102747.pdf"
+            "href": "/uploads/academics/ATP  2022 -202320250628_102747.pdf"
           },
           {
             "label": "ATP batch 2023-24",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2023-2420260115_065708.pdf"
+            "href": "/uploads/academics/ATP batch 2023-2420260115_065708.pdf"
           }
         ]
       },
@@ -747,19 +747,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250524_015533.pdf"
+            "href": "/uploads/academics/Syllabus20250524_015533.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_015605.pdf"
+            "href": "/uploads/academics/ATP20250524_015605.pdf"
           },
           {
             "label": "ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2021-2220260116_091143.pdf"
+            "href": "/uploads/academics/ATP batch 2021-2220260116_091143.pdf"
           },
           {
             "label": "Departmental info.",
-            "href": "https://brharneayurved.in/uploads/academics/Departmental info.20260202_053415.pdf"
+            "href": "/uploads/academics/Departmental info.20260202_053415.pdf"
           }
         ]
       },
@@ -768,15 +768,15 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/Department info20250524_015844.pdf"
+            "href": "/uploads/academics/Department info20250524_015844.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/\tSyllabus20250524_015917.pdf"
+            "href": "/uploads/academics/\tSyllabus20250524_015917.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_015945.pdf"
+            "href": "/uploads/academics/ATP20250524_015945.pdf"
           }
         ]
       },
@@ -785,19 +785,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/\tDepartment info20250524_020202.pdf"
+            "href": "/uploads/academics/\tDepartment info20250524_020202.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250524_020230.pdf"
+            "href": "/uploads/academics/Syllabus20250524_020230.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_020254.pdf"
+            "href": "/uploads/academics/ATP20250524_020254.pdf"
           },
           {
             "label": "ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2021-2220260106_105605.pdf"
+            "href": "/uploads/academics/ATP batch 2021-2220260106_105605.pdf"
           }
         ]
       },
@@ -806,23 +806,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/\tDepartment info20250524_020633.pdf"
+            "href": "/uploads/academics/\tDepartment info20250524_020633.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus20250524_020704.pdf"
+            "href": "/uploads/academics/Syllabus20250524_020704.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_020729.pdf"
+            "href": "/uploads/academics/ATP20250524_020729.pdf"
           },
           {
             "label": "ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2021-2220260124_095100.pdf"
+            "href": "/uploads/academics/ATP batch 2021-2220260124_095100.pdf"
           },
           {
             "label": "Departmental info.",
-            "href": "https://brharneayurved.in/uploads/academics/Departmental info.20260124_095231.pdf"
+            "href": "/uploads/academics/Departmental info.20260124_095231.pdf"
           }
         ]
       },
@@ -831,23 +831,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Department info",
-            "href": "https://brharneayurved.in/uploads/academics/\tDepartment info20250524_021124.pdf"
+            "href": "/uploads/academics/\tDepartment info20250524_021124.pdf"
           },
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_021217.pdf"
+            "href": "/uploads/academics/ATP20250524_021217.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus 20260106_100509.pdf"
+            "href": "/uploads/academics/Syllabus 20260106_100509.pdf"
           },
           {
             "label": "Departmental info.",
-            "href": "https://brharneayurved.in/uploads/academics/Departmental info.20260115_070542.pdf"
+            "href": "/uploads/academics/Departmental info.20260115_070542.pdf"
           },
           {
             "label": "ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2021-2220260115_070730.pdf"
+            "href": "/uploads/academics/ATP batch 2021-2220260115_070730.pdf"
           },
           {
             "label": "Images",
@@ -860,19 +860,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "ATP",
-            "href": "https://brharneayurved.in/uploads/academics/ATP20250524_021541.pdf"
+            "href": "/uploads/academics/ATP20250524_021541.pdf"
           },
           {
             "label": "Syllabus",
-            "href": "https://brharneayurved.in/uploads/academics/Syllabus 20260106_090701.pdf"
+            "href": "/uploads/academics/Syllabus 20260106_090701.pdf"
           },
           {
             "label": "Departmental info.",
-            "href": "https://brharneayurved.in/uploads/academics/Departmental info.20260106_091804.pdf"
+            "href": "/uploads/academics/Departmental info.20260106_091804.pdf"
           },
           {
             "label": "ATP batch 2021-22",
-            "href": "https://brharneayurved.in/uploads/academics/ATP batch 2021-2220260106_105348.pdf"
+            "href": "/uploads/academics/ATP batch 2021-2220260106_105348.pdf"
           },
           {
             "label": "Images",
@@ -912,22 +912,22 @@ const navItems: NavItem[] = [
       },
       {
         "label": "Fees Structure",
-        "href": "https://brharneayurved.in/uploads/fees_structure/fees_structure_20260507_085215.pdf"
+        "href": "/uploads/fees_structure/fees_structure_20260507_085215.pdf"
       },
       {
         "label": "List of Documents",
-        "href": "https://brharneayurved.in/uploads/admission/list of documents.pdf"
+        "href": "/uploads/admission/list of documents.pdf"
       },
       {
         "label": "Student Admission List",
         "children": [
           {
             "label": "Previous Year Students List",
-            "href": "https://brharneayurved.in/uploads/student_admission_list/Previous Year Students List20260106_061429.pdf"
+            "href": "/uploads/student_admission_list/Previous Year Students List20260106_061429.pdf"
           },
           {
             "label": "Current Year Students List",
-            "href": "https://brharneayurved.in/uploads/student_admission_list/Current Year Students List 20260106_061505.pdf"
+            "href": "/uploads/student_admission_list/Current Year Students List 20260106_061505.pdf"
           }
         ]
       }
@@ -941,71 +941,71 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Principal",
-            "href": "https://brharneayurved.in/uploads/faculty/Principal20260123_112906.pdf"
+            "href": "/uploads/faculty/Principal20260123_112906.pdf"
           },
           {
             "label": "Department of Dravyaguna Vigyana",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Dravyaguna Vigyana20260123_112953.pdf"
+            "href": "/uploads/faculty/Department of Dravyaguna Vigyana20260123_112953.pdf"
           },
           {
             "label": "Department of Kaumarbhritya -Bala Roga",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Kaumarbhritya -Bala Roga20260123_113047.pdf"
+            "href": "/uploads/faculty/Department of Kaumarbhritya -Bala Roga20260123_113047.pdf"
           },
           {
             "label": "Department of Kriya Sharir",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Kriya Sharir20260123_113157.pdf"
+            "href": "/uploads/faculty/Department of Kriya Sharir20260123_113157.pdf"
           },
           {
             "label": "Department of Panchakarma",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Panchakarma20260123_113236.pdf"
+            "href": "/uploads/faculty/Department of Panchakarma20260123_113236.pdf"
           },
           {
             "label": "Department of Rachana Sharir",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Rachana Sharir20260123_113315.pdf"
+            "href": "/uploads/faculty/Department of Rachana Sharir20260123_113315.pdf"
           },
           {
             "label": "Department of Rasa Shastra & Bhaisajya Kalpana",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Rasa Shastra & Bhaisajya Kalpana20260123_113400.pdf"
+            "href": "/uploads/faculty/Department of Rasa Shastra & Bhaisajya Kalpana20260123_113400.pdf"
           },
           {
             "label": "Department of Shalya Tantra",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Shalya Tantra20260123_113522.pdf"
+            "href": "/uploads/faculty/Department of Shalya Tantra20260123_113522.pdf"
           },
           {
             "label": "Department of Rog Nidan avum Vikriti Vigyan",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Rog Nidan avum Vikriti Vigyan20260123_113933.pdf"
+            "href": "/uploads/faculty/Department of Rog Nidan avum Vikriti Vigyan20260123_113933.pdf"
           },
           {
             "label": "Department of Prasuti & Stri Roga",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Prasuti & Stri Roga20260123_114017.pdf"
+            "href": "/uploads/faculty/Department of Prasuti & Stri Roga20260123_114017.pdf"
           },
           {
             "label": "Department of Swasthavritta & Yoga",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Swasthavritta & Yoga20260123_120207.pdf"
+            "href": "/uploads/faculty/Department of Swasthavritta & Yoga20260123_120207.pdf"
           },
           {
             "label": "Department of Shalakya Tantra",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Shalakya Tantra20260306_101844.pdf"
+            "href": "/uploads/faculty/Department of Shalakya Tantra20260306_101844.pdf"
           },
           {
             "label": "Department of Ayurved Samhita & Siddhant sanskrit",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Ayurved Samhita & Siddhant sanskrit20260420_105259.pdf"
+            "href": "/uploads/faculty/Department of Ayurved Samhita & Siddhant sanskrit20260420_105259.pdf"
           },
           {
             "label": "Department of Kaychikitsa",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Kaychikitsa 20260420_105423.pdf"
+            "href": "/uploads/faculty/Department of Kaychikitsa 20260420_105423.pdf"
           },
           {
             "label": "Department of Agad Tantra avum Vidhi Vaidyaka",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Agad Tantra avum Vidhi Vaidyaka20260420_105617.pdf"
+            "href": "/uploads/faculty/Department of Agad Tantra avum Vidhi Vaidyaka20260420_105617.pdf"
           },
           {
             "label": "Teaching Staff Common List",
-            "href": "https://brharneayurved.in/uploads/faculty/Teaching Staff Common List20260421_101156.pdf"
+            "href": "/uploads/faculty/Teaching Staff Common List20260421_101156.pdf"
           },
           {
             "label": "Department of Biostatistician",
-            "href": "https://brharneayurved.in/uploads/faculty/Department of Biostatistician20260427_121533.pdf"
+            "href": "/uploads/faculty/Department of Biostatistician20260427_121533.pdf"
           }
         ]
       },
@@ -1014,17 +1014,17 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Non Teaching Staff List",
-            "href": "https://brharneayurved.in/uploads/faculty/Non Teaching Staff List20260418_071831.pdf"
+            "href": "/uploads/faculty/Non Teaching Staff List20260418_071831.pdf"
           },
           {
             "label": "Hospital Staff List",
-            "href": "https://brharneayurved.in/uploads/faculty/Hospital Staff List20260418_071909.pdf"
+            "href": "/uploads/faculty/Hospital Staff List20260418_071909.pdf"
           }
         ]
       },
       {
         "label": "Teacher Awards",
-        "href": "https://brharneayurved.in/uploads/faculty/Teacher Awards 202520251216_100020.pdf"
+        "href": "/uploads/faculty/Teacher Awards 202520251216_100020.pdf"
       }
     ]
   },
@@ -1037,26 +1037,26 @@ const navItems: NavItem[] = [
       },
       {
         "label": "Hospital Infrastructure",
-        "href": "https://brharneayurved.in/uploads/hospital/Hospital Infrastructure20250327_090803.pdf"
+        "href": "/uploads/hospital/Hospital Infrastructure20250327_090803.pdf"
       },
       {
         "label": "Details Of Clinical Materials",
         "children": [
           {
             "label": "Details of Clinical Material",
-            "href": "https://brharneayurved.in/uploads/hospital/Details of Clinical Material20250327_090959.pdf"
+            "href": "/uploads/hospital/Details of Clinical Material20250327_090959.pdf"
           },
           {
             "label": "Instruments and Equipments Details for Operation Theater",
-            "href": "https://brharneayurved.in/uploads/hospital/Instruments and Equipments Details for Operation Theater20250327_091030.pdf"
+            "href": "/uploads/hospital/Instruments and Equipments Details for Operation Theater20250327_091030.pdf"
           },
           {
             "label": "Instruments and Equipments for OPD",
-            "href": "https://brharneayurved.in/uploads/hospital/Instruments and Equipments for OPD20250327_091105.pdf"
+            "href": "/uploads/hospital/Instruments and Equipments for OPD20250327_091105.pdf"
           },
           {
             "label": "Instruments and Equipments for Labour Room",
-            "href": "https://brharneayurved.in/uploads/hospital/Instruments and Equipments for Labour Room20250327_091132.pdf"
+            "href": "/uploads/hospital/Instruments and Equipments for Labour Room20250327_091132.pdf"
           }
         ]
       },
@@ -1065,15 +1065,15 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Hospital Staff Details",
-            "href": "https://brharneayurved.in/uploads/hospital/Hospital Staff Details20250327_091839.pdf"
+            "href": "/uploads/hospital/Hospital Staff Details20250327_091839.pdf"
           },
           {
             "label": "Attendance - April 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Attendance - April 202520250628_104411.pdf"
+            "href": "/uploads/hospital/Attendance - April 202520250628_104411.pdf"
           },
           {
             "label": "Attendance - May 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Attendance - May 202520250628_104455.pdf"
+            "href": "/uploads/hospital/Attendance - May 202520250628_104455.pdf"
           }
         ]
       },
@@ -1090,275 +1090,275 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "OPD JAN 25",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD JAN 2520250524_024524.pdf"
+            "href": "/uploads/hospital/OPD JAN 2520250524_024524.pdf"
           },
           {
             "label": "OPD Feb 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD Feb 202520250524_024557.pdf"
+            "href": "/uploads/hospital/OPD Feb 202520250524_024557.pdf"
           },
           {
             "label": "OPD April 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD April 202520250626_164859.pdf"
+            "href": "/uploads/hospital/OPD April 202520250626_164859.pdf"
           },
           {
             "label": "OPD May 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD May 202520250626_165324.pdf"
+            "href": "/uploads/hospital/OPD May 202520250626_165324.pdf"
           },
           {
             "label": "OPD March 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD March 202520250628_052448.pdf"
+            "href": "/uploads/hospital/OPD March 202520250628_052448.pdf"
           },
           {
             "label": "OPD June 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/OPD June 202520250718_061301.pdf"
+            "href": "/uploads/hospital/OPD June 202520250718_061301.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/July 202520250904_044049.pdf"
+            "href": "/uploads/hospital/July 202520250904_044049.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/August 202520250916_101707.pdf"
+            "href": "/uploads/hospital/August 202520250916_101707.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/September 202520251015_083113.pdf"
+            "href": "/uploads/hospital/September 202520251015_083113.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/October 202520251121_112515.pdf"
+            "href": "/uploads/hospital/October 202520251121_112515.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/November 202520251230_050125.pdf"
+            "href": "/uploads/hospital/November 202520251230_050125.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/December 2025 20260129_115834.pdf"
+            "href": "/uploads/hospital/December 2025 20260129_115834.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/January 202620260227_111045.pdf"
+            "href": "/uploads/hospital/January 202620260227_111045.pdf"
           },
           {
             "label": "Feb 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/Feb 202620260309_122332.pdf"
+            "href": "/uploads/hospital/Feb 202620260309_122332.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/March 202620260408_050521.pdf"
+            "href": "/uploads/hospital/March 202620260408_050521.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/April 202620260509_121624.pdf"
+            "href": "/uploads/hospital/April 202620260509_121624.pdf"
           },
           {
             "label": "May 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/May 202620260615_100815.pdf"
+            "href": "/uploads/hospital/May 202620260615_100815.pdf"
           },
           {
             "label": "IPD JAN 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD JAN 202520250524_025124.pdf"
+            "href": "/uploads/hospital/IPD JAN 202520250524_025124.pdf"
           },
           {
             "label": "IPD Feb 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD Feb 202520250524_025158.pdf"
+            "href": "/uploads/hospital/IPD Feb 202520250524_025158.pdf"
           },
           {
             "label": "IPD April 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD April 202520250626_164627.pdf"
+            "href": "/uploads/hospital/IPD April 202520250626_164627.pdf"
           },
           {
             "label": "IPD May 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD May 202520250626_165345.pdf"
+            "href": "/uploads/hospital/IPD May 202520250626_165345.pdf"
           },
           {
             "label": "IPD March 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD March 202520250628_052534.pdf"
+            "href": "/uploads/hospital/IPD March 202520250628_052534.pdf"
           },
           {
             "label": "IPD June 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/IPD June 202520250718_061140.pdf"
+            "href": "/uploads/hospital/IPD June 202520250718_061140.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/July 202520250904_044000.pdf"
+            "href": "/uploads/hospital/July 202520250904_044000.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/August 202520250916_102131.pdf"
+            "href": "/uploads/hospital/August 202520250916_102131.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/September 202520251015_083157.pdf"
+            "href": "/uploads/hospital/September 202520251015_083157.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/October 202520251124_120226.pdf"
+            "href": "/uploads/hospital/October 202520251124_120226.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/November 202520251230_050152.pdf"
+            "href": "/uploads/hospital/November 202520251230_050152.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/December 2025 20260120_035057.pdf"
+            "href": "/uploads/hospital/December 2025 20260120_035057.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/January 202620260227_111133.pdf"
+            "href": "/uploads/hospital/January 202620260227_111133.pdf"
           },
           {
             "label": "Feb 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/Feb 202620260309_122403.pdf"
+            "href": "/uploads/hospital/Feb 202620260309_122403.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/March 202620260408_050551.pdf"
+            "href": "/uploads/hospital/March 202620260408_050551.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/April 202620260509_121652.pdf"
+            "href": "/uploads/hospital/April 202620260509_121652.pdf"
           },
           {
             "label": "May 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/May 202620260615_100853.pdf"
+            "href": "/uploads/hospital/May 202620260615_100853.pdf"
           },
           {
             "label": "bed occupancy JAN 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/bed occupancy JAN 202520250524_025700.pdf"
+            "href": "/uploads/hospital/bed occupancy JAN 202520250524_025700.pdf"
           },
           {
             "label": "Bed Occupancy Feb 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Bed Occupancy Feb 202520250524_025738.pdf"
+            "href": "/uploads/hospital/Bed Occupancy Feb 202520250524_025738.pdf"
           },
           {
             "label": "Bed Occupancy April 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Bed Occupancy April 202520250626_165122.pdf"
+            "href": "/uploads/hospital/Bed Occupancy April 202520250626_165122.pdf"
           },
           {
             "label": "Bed Occupancy May 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Bed Occupancy May 202520250626_165422.pdf"
+            "href": "/uploads/hospital/Bed Occupancy May 202520250626_165422.pdf"
           },
           {
             "label": "Bed Occupancy March 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Bed Occupancy March 202520250628_052641.pdf"
+            "href": "/uploads/hospital/Bed Occupancy March 202520250628_052641.pdf"
           },
           {
             "label": "Bed occupancy June 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Bed occupancy June 202520250718_060918.pdf"
+            "href": "/uploads/hospital/Bed occupancy June 202520250718_060918.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/July 202520250904_043908.pdf"
+            "href": "/uploads/hospital/July 202520250904_043908.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/August 202520250916_102355.pdf"
+            "href": "/uploads/hospital/August 202520250916_102355.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/September 202520251015_083234.pdf"
+            "href": "/uploads/hospital/September 202520251015_083234.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/October 202520251124_120205.pdf"
+            "href": "/uploads/hospital/October 202520251124_120205.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/November 202520251230_050217.pdf"
+            "href": "/uploads/hospital/November 202520251230_050217.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/December 2025 20260120_035116.pdf"
+            "href": "/uploads/hospital/December 2025 20260120_035116.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/January 202620260227_111212.pdf"
+            "href": "/uploads/hospital/January 202620260227_111212.pdf"
           },
           {
             "label": "Feb 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/Feb 202620260309_122433.pdf"
+            "href": "/uploads/hospital/Feb 202620260309_122433.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/March 202620260408_050628.pdf"
+            "href": "/uploads/hospital/March 202620260408_050628.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/April 202620260509_121722.pdf"
+            "href": "/uploads/hospital/April 202620260509_121722.pdf"
           },
           {
             "label": "May 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/May 202620260615_100924.pdf"
+            "href": "/uploads/hospital/May 202620260615_100924.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/April 202520250626_165218.pdf"
+            "href": "/uploads/hospital/April 202520250626_165218.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/May 202520250626_165442.pdf"
+            "href": "/uploads/hospital/May 202520250626_165442.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/August 202520250917_120640.pdf"
+            "href": "/uploads/hospital/August 202520250917_120640.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/October 202520251121_112644.pdf"
+            "href": "/uploads/hospital/October 202520251121_112644.pdf"
           },
           {
             "label": "January 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/January 202520260130_081127.pdf"
+            "href": "/uploads/hospital/January 202520260130_081127.pdf"
           },
           {
             "label": "Feb 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/Feb 202520260130_081226.pdf"
+            "href": "/uploads/hospital/Feb 202520260130_081226.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/June 202520260130_081328.pdf"
+            "href": "/uploads/hospital/June 202520260130_081328.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/July 202520260130_081357.pdf"
+            "href": "/uploads/hospital/July 202520260130_081357.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/September 202520260130_081500.pdf"
+            "href": "/uploads/hospital/September 202520260130_081500.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/November 202520260130_081523.pdf"
+            "href": "/uploads/hospital/November 202520260130_081523.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/December 2025 20260130_081615.pdf"
+            "href": "/uploads/hospital/December 2025 20260130_081615.pdf"
           },
           {
             "label": "March 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/March 202520260130_083956.pdf"
+            "href": "/uploads/hospital/March 202520260130_083956.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/January 202620260227_111242.pdf"
+            "href": "/uploads/hospital/January 202620260227_111242.pdf"
           },
           {
             "label": "Feb 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/Feb 202620260309_122510.pdf"
+            "href": "/uploads/hospital/Feb 202620260309_122510.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/March 202620260420_093840.pdf"
+            "href": "/uploads/hospital/March 202620260420_093840.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/April 202620260509_121751.pdf"
+            "href": "/uploads/hospital/April 202620260509_121751.pdf"
           },
           {
             "label": "May 2026",
-            "href": "https://brharneayurved.in/uploads/hospital/May 202620260615_101004.pdf"
+            "href": "/uploads/hospital/May 202620260615_101004.pdf"
           }
         ]
       },
@@ -1367,23 +1367,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "January 2019 - December 2019",
-            "href": "https://brharneayurved.in/uploads/hospital/January 2019 - December 201920250628_110902.pdf"
+            "href": "/uploads/hospital/January 2019 - December 201920250628_110902.pdf"
           },
           {
             "label": "January 2020 - December 2020",
-            "href": "https://brharneayurved.in/uploads/hospital/January 2020 - December 202020250628_110952.pdf"
+            "href": "/uploads/hospital/January 2020 - December 202020250628_110952.pdf"
           },
           {
             "label": "January 2021 - December 2021",
-            "href": "https://brharneayurved.in/uploads/hospital/January 2021 - December 202120250628_111045.pdf"
+            "href": "/uploads/hospital/January 2021 - December 202120250628_111045.pdf"
           },
           {
             "label": "January 2024 - December 2024",
-            "href": "https://brharneayurved.in/uploads/hospital/January 2024 - December 202420250628_111222.pdf"
+            "href": "/uploads/hospital/January 2024 - December 202420250628_111222.pdf"
           },
           {
             "label": "January 2025 - December 2025",
-            "href": "https://brharneayurved.in/uploads/hospital/January 2025 - December 202520260207_073502.pdf"
+            "href": "/uploads/hospital/January 2025 - December 202520260207_073502.pdf"
           }
         ]
       },
@@ -1413,19 +1413,19 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "2019-2020",
-            "href": "https://brharneayurved.in/uploads/student_zone/2019-2020_20251002_091256.pdf"
+            "href": "/uploads/student_zone/2019-2020_20251002_091256.pdf"
           },
           {
             "label": "2020-2021",
-            "href": "https://brharneayurved.in/uploads/student_zone/2020-2021_20251002_091415.pdf"
+            "href": "/uploads/student_zone/2020-2021_20251002_091415.pdf"
           },
           {
             "label": "2022-2023",
-            "href": "https://brharneayurved.in/uploads/student_zone/2022-2023_20251002_091518.pdf"
+            "href": "/uploads/student_zone/2022-2023_20251002_091518.pdf"
           },
           {
             "label": "2024-2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/2024-2025_20251002_091628.pdf"
+            "href": "/uploads/student_zone/2024-2025_20251002_091628.pdf"
           }
         ]
       },
@@ -1434,23 +1434,23 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "MUHS Scheme 2024",
-            "href": "https://brharneayurved.in/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf"
+            "href": "/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf"
           },
           {
             "label": "Sports & Cultural Achievements 2024",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf"
+            "href": "/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf"
           },
           {
             "label": "Vidyanjali Registration",
-            "href": "https://brharneayurved.in/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf"
+            "href": "/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf"
           },
           {
             "label": "MUHS Scheme 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf"
+            "href": "/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf"
           },
           {
             "label": "Sports and Cultural Achievement 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf"
+            "href": "/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf"
           }
         ]
       },
@@ -1459,11 +1459,11 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "Student Award List",
-            "href": "https://brharneayurved.in/uploads/student_zone/Student_Award_List_20251002_091121.pdf"
+            "href": "/uploads/student_zone/Student_Award_List_20251002_091121.pdf"
           },
           {
             "label": "Students Award list 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf"
+            "href": "/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf"
           }
         ]
       },
@@ -1472,187 +1472,187 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "March 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/March_2025_20250912_073148.pdf"
+            "href": "/uploads/student_zone/March_2025_20250912_073148.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/April_2025_20250912_073244.pdf"
+            "href": "/uploads/student_zone/April_2025_20250912_073244.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/May_2025_20250912_073341.pdf"
+            "href": "/uploads/student_zone/May_2025_20250912_073341.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/June_2025_20250912_073418.pdf"
+            "href": "/uploads/student_zone/June_2025_20250912_073418.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/July_2025_20250916_070303.pdf"
+            "href": "/uploads/student_zone/July_2025_20250916_070303.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/August_2025_20260224_100811.pdf"
+            "href": "/uploads/student_zone/August_2025_20260224_100811.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/September_2025_20260311_084412.pdf"
+            "href": "/uploads/student_zone/September_2025_20260311_084412.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/September_2025_20260311_084801.pdf"
+            "href": "/uploads/student_zone/September_2025_20260311_084801.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/October_2025_20260311_084910.pdf"
+            "href": "/uploads/student_zone/October_2025_20260311_084910.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/November_2025_20260311_085134.pdf"
+            "href": "/uploads/student_zone/November_2025_20260311_085134.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/December_2025__20260311_085331.pdf"
+            "href": "/uploads/student_zone/December_2025__20260311_085331.pdf"
           },
           {
             "label": "January 2026 AY 24-25",
-            "href": "https://brharneayurved.in/uploads/student_zone/January_2026_AY_24-25_20260317_103618.pdf"
+            "href": "/uploads/student_zone/January_2026_AY_24-25_20260317_103618.pdf"
           },
           {
             "label": "February 2026 AY 24-25",
-            "href": "https://brharneayurved.in/uploads/student_zone/February_2026_AY_24-25_20260317_103931.pdf"
+            "href": "/uploads/student_zone/February_2026_AY_24-25_20260317_103931.pdf"
           },
           {
             "label": "January 2026 AY 25- 26",
-            "href": "https://brharneayurved.in/uploads/student_zone/January_2026_AY_25-_26_20260317_104034.pdf"
+            "href": "/uploads/student_zone/January_2026_AY_25-_26_20260317_104034.pdf"
           },
           {
             "label": "February 2026 AY 25- 26",
-            "href": "https://brharneayurved.in/uploads/student_zone/February_2026_AY_25-_26_20260317_104123.pdf"
+            "href": "/uploads/student_zone/February_2026_AY_25-_26_20260317_104123.pdf"
           },
           {
             "label": "March 2026 AY 25-26",
-            "href": "https://brharneayurved.in/uploads/student_zone/March_2026_AY_25-26_20260418_072127.pdf"
+            "href": "/uploads/student_zone/March_2026_AY_25-26_20260418_072127.pdf"
           },
           {
             "label": "April 2026 AY 25-26",
-            "href": "https://brharneayurved.in/uploads/student_zone/April_2026_AY_25-26_20260514_054434.pdf"
+            "href": "/uploads/student_zone/April_2026_AY_25-26_20260514_054434.pdf"
           },
           {
             "label": "May 2026",
-            "href": "https://brharneayurved.in/uploads/student_zone/May_2026_20260619_100912.pdf"
+            "href": "/uploads/student_zone/May_2026_20260619_100912.pdf"
           },
           {
             "label": "March 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/March_2025_20250912_073502.pdf"
+            "href": "/uploads/student_zone/March_2025_20250912_073502.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/April_2025_20250912_073531.pdf"
+            "href": "/uploads/student_zone/April_2025_20250912_073531.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/May_2025_20250912_073625.pdf"
+            "href": "/uploads/student_zone/May_2025_20250912_073625.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/June_2025_20250912_073651.pdf"
+            "href": "/uploads/student_zone/June_2025_20250912_073651.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/August_2025_20251122_073603.pdf"
+            "href": "/uploads/student_zone/August_2025_20251122_073603.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/September_2025_20251122_073938.pdf"
+            "href": "/uploads/student_zone/September_2025_20251122_073938.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/October_2025_20251122_074030.pdf"
+            "href": "/uploads/student_zone/October_2025_20251122_074030.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/July_2025_20251230_050421.pdf"
+            "href": "/uploads/student_zone/July_2025_20251230_050421.pdf"
           },
           {
             "label": "Sy batch 22-23 November 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sy_batch_22-23_November_2025_20260120_034600.pdf"
+            "href": "/uploads/student_zone/Sy_batch_22-23_November_2025_20260120_034600.pdf"
           },
           {
             "label": "Sy batch 22-23 December 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sy_batch_22-23_December_2025_20260120_034705.pdf"
+            "href": "/uploads/student_zone/Sy_batch_22-23_December_2025_20260120_034705.pdf"
           },
           {
             "label": "Sy batch 23-24 November 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sy_batch_23-24_November_2025_20260120_034805.pdf"
+            "href": "/uploads/student_zone/Sy_batch_23-24_November_2025_20260120_034805.pdf"
           },
           {
             "label": "Sy batch 23-24 December 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sy_batch_23-24_December_2025_20260120_034953.pdf"
+            "href": "/uploads/student_zone/Sy_batch_23-24_December_2025_20260120_034953.pdf"
           },
           {
             "label": "Feb 2026",
-            "href": "https://brharneayurved.in/uploads/student_zone/Feb_2026_20260312_131235.pdf"
+            "href": "/uploads/student_zone/Feb_2026_20260312_131235.pdf"
           },
           {
             "label": "Sy batch 23-24 January 2026",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sy_batch_23-24_January_2026_20260320_052114.pdf"
+            "href": "/uploads/student_zone/Sy_batch_23-24_January_2026_20260320_052114.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/student_zone/March_2026_20260410_111751.pdf"
+            "href": "/uploads/student_zone/March_2026_20260410_111751.pdf"
           },
           {
             "label": "Sybams 23-24 batch  May 2026",
-            "href": "https://brharneayurved.in/uploads/student_zone/Sybams_23-24_batch__May_2026_20260630_072322.pdf"
+            "href": "/uploads/student_zone/Sybams_23-24_batch__May_2026_20260630_072322.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/September_2025_20251122_074432.pdf"
+            "href": "/uploads/student_zone/September_2025_20251122_074432.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/August_2025_20251122_074646.pdf"
+            "href": "/uploads/student_zone/August_2025_20251122_074646.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/October_2025_20251122_074736.pdf"
+            "href": "/uploads/student_zone/October_2025_20251122_074736.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/April_2025_20260202_080433.pdf"
+            "href": "/uploads/student_zone/April_2025_20260202_080433.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/May_2025_20260202_081214.pdf"
+            "href": "/uploads/student_zone/May_2025_20260202_081214.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/June_2025_20260202_081251.pdf"
+            "href": "/uploads/student_zone/June_2025_20260202_081251.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/July_2025_20260202_081343.pdf"
+            "href": "/uploads/student_zone/July_2025_20260202_081343.pdf"
           },
           {
             "label": "August 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/August_2025_20260202_081453.pdf"
+            "href": "/uploads/student_zone/August_2025_20260202_081453.pdf"
           },
           {
             "label": "September 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/September_2025_20260202_082211.pdf"
+            "href": "/uploads/student_zone/September_2025_20260202_082211.pdf"
           },
           {
             "label": "October 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/October_2025_20260202_082303.pdf"
+            "href": "/uploads/student_zone/October_2025_20260202_082303.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/November_2025_20260202_082348.pdf"
+            "href": "/uploads/student_zone/November_2025_20260202_082348.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/student_zone/December_2025__20260202_082449.pdf"
+            "href": "/uploads/student_zone/December_2025__20260202_082449.pdf"
           }
         ]
       }
@@ -1676,95 +1676,95 @@ const navItems: NavItem[] = [
     "children": [
       {
         "label": "Academic Committee 20260105_091046",
-        "href": "https://brharneayurved.in/uploads/committee/Academic Committee 20260105_091046.pdf"
+        "href": "/uploads/committee/Academic Committee 20260105_091046.pdf"
       },
       {
         "label": "Institutional Ethical Committee 20260105_091202",
-        "href": "https://brharneayurved.in/uploads/committee/Institutional Ethical Committee 20260105_091202.pdf"
+        "href": "/uploads/committee/Institutional Ethical Committee 20260105_091202.pdf"
       },
       {
         "label": "Hospital Audit Committee 20260105_091325",
-        "href": "https://brharneayurved.in/uploads/committee/Hospital Audit Committee 20260105_091325.pdf"
+        "href": "/uploads/committee/Hospital Audit Committee 20260105_091325.pdf"
       },
       {
         "label": "Medical Camp Comittee 20260105_091629",
-        "href": "https://brharneayurved.in/uploads/committee/Medical Camp Comittee 20260105_091629.pdf"
+        "href": "/uploads/committee/Medical Camp Comittee 20260105_091629.pdf"
       },
       {
         "label": "NABH Comittee 20260105_091725",
-        "href": "https://brharneayurved.in/uploads/committee/NABH Comittee 20260105_091725.pdf"
+        "href": "/uploads/committee/NABH Comittee 20260105_091725.pdf"
       },
       {
         "label": "Website Comittee 20260105_091802",
-        "href": "https://brharneayurved.in/uploads/committee/Website Comittee 20260105_091802.pdf"
+        "href": "/uploads/committee/Website Comittee 20260105_091802.pdf"
       },
       {
         "label": "NAAC Comittee 20260105_091843",
-        "href": "https://brharneayurved.in/uploads/committee/NAAC Comittee 20260105_091843.pdf"
+        "href": "/uploads/committee/NAAC Comittee 20260105_091843.pdf"
       },
       {
         "label": "Comittee against Sexual harrasment 20260105_091939",
-        "href": "https://brharneayurved.in/uploads/committee/Comittee against Sexual harrasment 20260105_091939.pdf"
+        "href": "/uploads/committee/Comittee against Sexual harrasment 20260105_091939.pdf"
       },
       {
         "label": "Publication magazine Comittee 20260105_092025",
-        "href": "https://brharneayurved.in/uploads/committee/Publication magazine Comittee 20260105_092025.pdf"
+        "href": "/uploads/committee/Publication magazine Comittee 20260105_092025.pdf"
       },
       {
         "label": "Hostel Comittee 20260105_092235",
-        "href": "https://brharneayurved.in/uploads/committee/Hostel Comittee 20260105_092235.pdf"
+        "href": "/uploads/committee/Hostel Comittee 20260105_092235.pdf"
       },
       {
         "label": "Grievance Comittee 20260105_092330",
-        "href": "https://brharneayurved.in/uploads/committee/Grievance Comittee 20260105_092330.pdf"
+        "href": "/uploads/committee/Grievance Comittee 20260105_092330.pdf"
       },
       {
         "label": "College Counsil Comittee 20260105_092430",
-        "href": "https://brharneayurved.in/uploads/committee/College Counsil Comittee 20260105_092430.pdf"
+        "href": "/uploads/committee/College Counsil Comittee 20260105_092430.pdf"
       },
       {
         "label": "Antiragging Comittee 20260105_092543",
-        "href": "https://brharneayurved.in/uploads/committee/Antiragging Comittee 20260105_092543.pdf"
+        "href": "/uploads/committee/Antiragging Comittee 20260105_092543.pdf"
       },
       {
         "label": "Local managing Committee 20260105_092638",
-        "href": "https://brharneayurved.in/uploads/committee/Local managing Committee 20260105_092638.pdf"
+        "href": "/uploads/committee/Local managing Committee 20260105_092638.pdf"
       },
       {
         "label": "Internal Quality Assurance Committee 20260105_094702",
-        "href": "https://brharneayurved.in/uploads/committee/Internal Quality Assurance Committee 20260105_094702.pdf"
+        "href": "/uploads/committee/Internal Quality Assurance Committee 20260105_094702.pdf"
       },
       {
         "label": "Drug Procurement or Purchase Committee20260107_074730",
-        "href": "https://brharneayurved.in/uploads/committee/Drug Procurement or Purchase Committee20260107_074730.pdf"
+        "href": "/uploads/committee/Drug Procurement or Purchase Committee20260107_074730.pdf"
       },
       {
         "label": "Vishakha Committee20260107_074817",
-        "href": "https://brharneayurved.in/uploads/committee/Vishakha Committee20260107_074817.pdf"
+        "href": "/uploads/committee/Vishakha Committee20260107_074817.pdf"
       },
       {
         "label": "Human Resource Development Committee20260107_074900",
-        "href": "https://brharneayurved.in/uploads/committee/Human Resource Development Committee20260107_074900.pdf"
+        "href": "/uploads/committee/Human Resource Development Committee20260107_074900.pdf"
       },
       {
         "label": "Pharmacovigilance Cell20260107_074943",
-        "href": "https://brharneayurved.in/uploads/committee/Pharmacovigilance Cell20260107_074943.pdf"
+        "href": "/uploads/committee/Pharmacovigilance Cell20260107_074943.pdf"
       },
       {
         "label": "Sanskrit Club Committee Members20260107_075032",
-        "href": "https://brharneayurved.in/uploads/committee/Sanskrit Club Committee Members20260107_075032.pdf"
+        "href": "/uploads/committee/Sanskrit Club Committee Members20260107_075032.pdf"
       },
       {
         "label": "Research Innovation and Entrepreneurship Development Cell20260107_075104",
-        "href": "https://brharneayurved.in/uploads/committee/Research Innovation and Entrepreneurship Development Cell20260107_075104.pdf"
+        "href": "/uploads/committee/Research Innovation and Entrepreneurship Development Cell20260107_075104.pdf"
       },
       {
         "label": "Student Support, Career Guidance Placement cell20260216_155943",
-        "href": "https://brharneayurved.in/uploads/committee/Student Support, Career Guidance Placement cell20260216_155943.pdf"
+        "href": "/uploads/committee/Student Support, Career Guidance Placement cell20260216_155943.pdf"
       },
       {
         "label": "Co-curricular Extra- Curricular activities cell20260601_204529",
-        "href": "https://brharneayurved.in/uploads/committee/Co-curricular Extra- Curricular activities cell20260601_204529.pdf"
+        "href": "/uploads/committee/Co-curricular Extra- Curricular activities cell20260601_204529.pdf"
       }
     ]
   },
@@ -1776,55 +1776,55 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "February 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February 202520250326_021448.pdf"
+            "href": "/uploads/biometric_attendance/February 202520250326_021448.pdf"
           },
           {
             "label": "January 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/January 202520250326_021543.pdf"
+            "href": "/uploads/biometric_attendance/January 202520250326_021543.pdf"
           },
           {
             "label": "MARCH 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/MARCH 202520250725_045208.pdf"
+            "href": "/uploads/biometric_attendance/MARCH 202520250725_045208.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/April 202520250802_101504.pdf"
+            "href": "/uploads/biometric_attendance/April 202520250802_101504.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/July 202520250825_110234.pdf"
+            "href": "/uploads/biometric_attendance/July 202520250825_110234.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/June 202520260222_113413.pdf"
+            "href": "/uploads/biometric_attendance/June 202520260222_113413.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/May 202520260222_113517.pdf"
+            "href": "/uploads/biometric_attendance/May 202520260222_113517.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/January 202620260227_111424.pdf"
+            "href": "/uploads/biometric_attendance/January 202620260227_111424.pdf"
           },
           {
             "label": "February 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February 202620260328_100807.pdf"
+            "href": "/uploads/biometric_attendance/February 202620260328_100807.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/March 202620260331_131119.pdf"
+            "href": "/uploads/biometric_attendance/March 202620260331_131119.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/December 2025 20260402_104927.pdf"
+            "href": "/uploads/biometric_attendance/December 2025 20260402_104927.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/November 202520260416_080737.pdf"
+            "href": "/uploads/biometric_attendance/November 202520260416_080737.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/April 202620260508_091254.pdf"
+            "href": "/uploads/biometric_attendance/April 202620260508_091254.pdf"
           }
         ]
       },
@@ -1833,55 +1833,55 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "February 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February 202520250326_023137.pdf"
+            "href": "/uploads/biometric_attendance/February 202520250326_023137.pdf"
           },
           {
             "label": "January 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/January 202520250326_023153.pdf"
+            "href": "/uploads/biometric_attendance/January 202520250326_023153.pdf"
           },
           {
             "label": "March 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/March 202520250626_200847.pdf"
+            "href": "/uploads/biometric_attendance/March 202520250626_200847.pdf"
           },
           {
             "label": "April 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/April 202520250802_101635.pdf"
+            "href": "/uploads/biometric_attendance/April 202520250802_101635.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/June 202520250802_101656.pdf"
+            "href": "/uploads/biometric_attendance/June 202520250802_101656.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/July 202520250804_055732.pdf"
+            "href": "/uploads/biometric_attendance/July 202520250804_055732.pdf"
           },
           {
             "label": "May 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/May 202520260320_101651.pdf"
+            "href": "/uploads/biometric_attendance/May 202520260320_101651.pdf"
           },
           {
             "label": "February 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February 202620260323_080320.pdf"
+            "href": "/uploads/biometric_attendance/February 202620260323_080320.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/January 202620260328_100842.pdf"
+            "href": "/uploads/biometric_attendance/January 202620260328_100842.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/December 2025 20260331_060733.pdf"
+            "href": "/uploads/biometric_attendance/December 2025 20260331_060733.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/March 202620260402_104815.pdf"
+            "href": "/uploads/biometric_attendance/March 202620260402_104815.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/November 202520260416_080823.pdf"
+            "href": "/uploads/biometric_attendance/November 202520260416_080823.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/April 202620260508_091324.pdf"
+            "href": "/uploads/biometric_attendance/April 202620260508_091324.pdf"
           }
         ]
       },
@@ -1890,57 +1890,57 @@ const navItems: NavItem[] = [
         "children": [
           {
             "label": "MARCH 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/MARCH 202520250725_045403.pdf"
+            "href": "/uploads/biometric_attendance/MARCH 202520250725_045403.pdf"
           },
           {
             "label": "JANUARY 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/JANUARY 202520250725_051016.pdf"
+            "href": "/uploads/biometric_attendance/JANUARY 202520250725_051016.pdf"
           },
           {
             "label": "February-2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February-202520250725_051102.pdf"
+            "href": "/uploads/biometric_attendance/February-202520250725_051102.pdf"
           },
           {
             "label": "June 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/June 202520250802_101744.pdf"
+            "href": "/uploads/biometric_attendance/June 202520250802_101744.pdf"
           },
           {
             "label": "July 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/July 202520250804_055649.pdf"
+            "href": "/uploads/biometric_attendance/July 202520250804_055649.pdf"
           },
           {
             "label": "February 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/February 202620260323_120117.pdf"
+            "href": "/uploads/biometric_attendance/February 202620260323_120117.pdf"
           },
           {
             "label": "December 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/December 2025 20260331_060517.pdf"
+            "href": "/uploads/biometric_attendance/December 2025 20260331_060517.pdf"
           },
           {
             "label": "January 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/January 202620260331_060541.pdf"
+            "href": "/uploads/biometric_attendance/January 202620260331_060541.pdf"
           },
           {
             "label": "March 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/March 202620260402_104740.pdf"
+            "href": "/uploads/biometric_attendance/March 202620260402_104740.pdf"
           },
           {
             "label": "November 2025",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/November 202520260420_104330.pdf"
+            "href": "/uploads/biometric_attendance/November 202520260420_104330.pdf"
           },
           {
             "label": "April 2026",
-            "href": "https://brharneayurved.in/uploads/biometric_attendance/April 202620260511_083704.pdf"
+            "href": "/uploads/biometric_attendance/April 202620260511_083704.pdf"
           }
         ]
       },
       {
         "label": "MUHS Holiday 2025",
-        "href": "https://brharneayurved.in/uploads/biometric_attendance/MUHS Holiday 202520250626_175530.pdf"
+        "href": "/uploads/biometric_attendance/MUHS Holiday 202520250626_175530.pdf"
       },
       {
         "label": "MUHS Holiday 2026",
-        "href": "https://brharneayurved.in/uploads/biometric_attendance/MUHS Holiday 202620251216_062422.pdf"
+        "href": "/uploads/biometric_attendance/MUHS Holiday 202620251216_062422.pdf"
       }
     ]
   },

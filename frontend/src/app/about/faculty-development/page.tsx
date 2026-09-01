@@ -5,11 +5,11 @@ export const metadata = { title: "Faculty Development Programme" };
 const documents = [
   {
     "name": "Faculty Development Programme",
-    "url": "https://www.brharneayurved.in/uploads/about/Faculty%20Development%20Programme20250331_120450.pdf"
+    "url": "/uploads/about/Faculty Development Programme20250331_120450.pdf"
   },
   {
     "name": "Faculty Development Program 2025-26",
-    "url": "https://www.brharneayurved.in/uploads/about/Faculty%20Development%20Program%202025-2620260420_103717.pdf"
+    "url": "/uploads/about/Faculty Development Program 2025-2620260420_103717.pdf"
   }
 ];
 

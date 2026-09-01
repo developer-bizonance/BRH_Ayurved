@@ -5,96 +5,106 @@ export const metadata = { title: "MUHS Mandate 2026-2027" };
 
 const documentsData = [
   {
-    category: "Schedules & Enclosures",
-    files: [
+    "category": "Schedule",
+    "files": [
       {
         "name": "Schedule I",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule I20260227_094601.pdf"
+        "url": "/uploads/muhs_mandate/Schedule I20260227_094601.pdf"
       },
       {
         "name": "Schedule II",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule II20260227_094718.pdf"
+        "url": "/uploads/muhs_mandate/Schedule II20260227_094718.pdf"
       },
       {
         "name": "Schedule XVII",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule XVII20260227_095011.pdf"
+        "url": "/uploads/muhs_mandate/Schedule XVII20260227_095011.pdf"
       },
       {
         "name": "Schedule XX",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule XX20260227_095115.pdf"
+        "url": "/uploads/muhs_mandate/Schedule XX20260227_095115.pdf"
       },
       {
         "name": "Schedule XXII",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule XXII 20260227_095226.pdf"
+        "url": "/uploads/muhs_mandate/Schedule XXII 20260227_095226.pdf"
       },
       {
         "name": "Schedule XXXI",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule XXXI20260227_095328.pdf"
+        "url": "/uploads/muhs_mandate/Schedule XXXI20260227_095328.pdf"
       },
       {
         "name": "Schedule III",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule III20260309_105924.pdf"
+        "url": "/uploads/muhs_mandate/Schedule III20260309_105924.pdf"
       },
       {
         "name": "Schedule IV",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule IV20260309_110039.pdf"
+        "url": "/uploads/muhs_mandate/Schedule IV20260309_110039.pdf"
       },
       {
         "name": "Schedule XXIV",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule XXIV20260309_110126.pdf"
+        "url": "/uploads/muhs_mandate/Schedule XXIV20260309_110126.pdf"
       },
       {
         "name": "Schedule V",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Schedule V20260309_121926.pdf"
-      },
-      {
-        "name": "Enclosure 1",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 120260227_110554.pdf"
-      },
-      {
-        "name": "Enclosure 8",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 820260227_110739.pdf"
-      },
-      {
-        "name": "Enclosure 5",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 520260228_053746.pdf"
-      },
-      {
-        "name": "Enclosure 7",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 720260228_054113.pdf"
-      },
-      {
-        "name": "Enclosure 6",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 620260306_110744.pdf"
-      },
-      {
-        "name": "Enclosure 2",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 220260310_041318.pdf"
-      },
-      {
-        "name": "Enclosure 4",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Enclosure 420260325_114614.pdf"
+        "url": "/uploads/muhs_mandate/Schedule V20260309_121926.pdf"
       }
     ]
   },
   {
-    category: "Annexures & Declarations",
-    files: [
+    "category": "Enclosure",
+    "files": [
+      {
+        "name": "Enclosure 1",
+        "url": "/uploads/muhs_mandate/Enclosure 120260227_110554.pdf"
+      },
+      {
+        "name": "Enclosure 8",
+        "url": "/uploads/muhs_mandate/Enclosure 820260227_110739.pdf"
+      },
+      {
+        "name": "Enclosure 5",
+        "url": "/uploads/muhs_mandate/Enclosure 520260228_053746.pdf"
+      },
+      {
+        "name": "Enclosure 7",
+        "url": "/uploads/muhs_mandate/Enclosure 720260228_054113.pdf"
+      },
+      {
+        "name": "Enclosure 6",
+        "url": "/uploads/muhs_mandate/Enclosure 620260306_110744.pdf"
+      },
+      {
+        "name": "Enclosure 2",
+        "url": "/uploads/muhs_mandate/Enclosure 220260310_041318.pdf"
+      },
+      {
+        "name": "Enclosure 4",
+        "url": "/uploads/muhs_mandate/Enclosure 420260325_114614.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Annexure",
+    "files": [
       {
         "name": "Annexure V",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Annexure V20260309_122027.pdf"
+        "url": "/uploads/muhs_mandate/Annexure V20260309_122027.pdf"
       },
       {
         "name": "Annexure VI",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Annexure VI20260309_122144.pdf"
+        "url": "/uploads/muhs_mandate/Annexure VI20260309_122144.pdf"
       },
       {
         "name": "Annexure IV",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Annexure IV20260324_053057.pdf"
-      },
+        "url": "/uploads/muhs_mandate/Annexure IV20260324_053057.pdf"
+      }
+    ]
+  },
+  {
+    "category": "Declaration",
+    "files": [
       {
         "name": "Principal Declaration",
-        "url": "https://www.brharneayurved.in/uploads/muhs_mandate/Principal Declaration 20260228_054208.pdf"
+        "url": "/uploads/muhs_mandate/Principal Declaration 20260228_054208.pdf"
       }
     ]
   }

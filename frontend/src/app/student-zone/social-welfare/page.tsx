@@ -1,14 +1,30 @@
 import PageBanner from "@/components/ui/PageBanner";
 import Link from "next/link";
+import Image from "next/image";
 
 export const metadata = { title: "Student Social Welfare" };
 
 const files = [
-  { "name": "MUHS Scheme 2024", "url": "https://brharneayurved.in/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf" },
-  { "name": "Sports & Cultural Achievements 2024", "url": "https://brharneayurved.in/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf" },
-  { "name": "Vidyanjali Registration", "url": "https://brharneayurved.in/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf" },
-  { "name": "MUHS Scheme 2025", "url": "https://brharneayurved.in/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf" },
-  { "name": "Sports and Cultural Achievement 2025", "url": "https://brharneayurved.in/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf" }
+  { "name": "MUHS Scheme 2024", "url": "/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf" },
+  { "name": "Sports & Cultural Achievements 2024", "url": "/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf" },
+  { "name": "Vidyanjali Registration", "url": "/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf" },
+  { "name": "MUHS Scheme 2025", "url": "/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf" },
+  { "name": "Sports and Cultural Achievement 2025", "url": "/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf" }
+];
+
+const galleryImages = [
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb1fa5.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb3ce5.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb55f9.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb6c52.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb7bbd.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb8b2f.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbb9b6d.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbbab94.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbbbd27.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbbcc7b.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbbe452.jpeg",
+  "/uploads/gallery/Sports and Cultural Achievements_685fe1dbbefba.jpeg"
 ];
 
 export default function StudentSocialWelfarePage() {
@@ -16,7 +32,9 @@ export default function StudentSocialWelfarePage() {
     <div>
       <PageBanner title="Student Social Welfare" breadcrumbs={[{ label: "Student Zone" }, { label: "Student Social Welfare" }]} />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 pt-0">
-        <div className="w-full">
+        
+        {/* PDF Documents */}
+        <div className="w-full mb-12 mt-12">
           <div className="flex flex-col gap-2">
             {files.map((file, idx) => (
               <Link 
@@ -47,6 +65,29 @@ export default function StudentSocialWelfarePage() {
             ))}
           </div>
         </div>
+
+        {/* Image Gallery */}
+        <div className="w-full">
+          <h2 className="text-2xl sm:text-3xl font-semibold text-gray-800 border-l-4 border-[#57B745] pl-4 mb-8 font-[var(--font-playfair)]">
+            Photo Gallery Sports and Cultural Achievements
+          </h2>
+          
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            {galleryImages.map((src, idx) => (
+              <div key={idx} className="relative aspect-video rounded-xl overflow-hidden shadow-md group cursor-pointer border border-gray-100">
+                <Image
+                  src={src}
+                  alt={`Sports and Cultural Achievement ${idx + 1}`}
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                />
+                <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-300" />
+              </div>
+            ))}
+          </div>
+        </div>
+
       </div>
     </div>
   );

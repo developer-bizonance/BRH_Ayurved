@@ -6,7 +6,7 @@ export const metadata = { title: "Teacher Awards" };
 const documents = [
   {
     "name": "Teacher Awards 2025",
-    "url": "https://www.brharneayurved.in/uploads/faculty/Teacher Awards 202520251216_100020.pdf"
+    "url": "/uploads/faculty/Teacher Awards 202520251216_100020.pdf"
   }
 ];
 

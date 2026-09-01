@@ -5,11 +5,11 @@ import Image from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const slides = [
-  { src: "https://www.brharneayurved.in/uploads/gallery/s5_6887522893bda.jpg", alt: "College Campus" },
-  { src: "https://www.brharneayurved.in/uploads/gallery/s4_6887521a21f4b.jpg", alt: "College Activity" },
-  { src: "https://www.brharneayurved.in/uploads/gallery/s3_6887520d7c678.jpg", alt: "College Event" },
-  { src: "https://www.brharneayurved.in/uploads/gallery/s2_688751fea85d4.png", alt: "Campus View" },
-  { src: "https://www.brharneayurved.in/uploads/gallery/s1_688751f0272d4.png", alt: "College Banner" },
+  { src: "/uploads/gallery/s5_6887522893bda.jpg", alt: "College Campus" },
+  { src: "/uploads/gallery/s4_6887521a21f4b.jpg", alt: "College Activity" },
+  { src: "/uploads/gallery/s3_6887520d7c678.jpg", alt: "College Event" },
+  { src: "/uploads/gallery/s2_688751fea85d4.png", alt: "Campus View" },
+  { src: "/uploads/gallery/s1_688751f0272d4.png", alt: "College Banner" },
 ];
 
 export default function HeroCarousel() {

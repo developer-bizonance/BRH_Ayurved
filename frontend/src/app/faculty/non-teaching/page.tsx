@@ -6,11 +6,11 @@ export const metadata = { title: "Non Teaching Staff" };
 const documents = [
   {
     "name": "Non Teaching Staff List",
-    "url": "https://www.brharneayurved.in/uploads/faculty/Non Teaching Staff List20260418_071831.pdf"
+    "url": "/uploads/faculty/Non Teaching Staff List20260418_071831.pdf"
   },
   {
     "name": "Hospital Staff List",
-    "url": "https://www.brharneayurved.in/uploads/faculty/Hospital Staff List20260418_071909.pdf"
+    "url": "/uploads/faculty/Hospital Staff List20260418_071909.pdf"
   }
 ];
 

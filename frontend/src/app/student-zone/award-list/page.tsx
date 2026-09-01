@@ -4,8 +4,8 @@ import Link from "next/link";
 export const metadata = { title: "Student Award List" };
 
 const files = [
-  { "name": "Student Award List", "url": "https://brharneayurved.in/uploads/student_zone/Student_Award_List_20251002_091121.pdf" },
-  { "name": "Students Award list 2025", "url": "https://brharneayurved.in/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf" }
+  { "name": "Student Award List", "url": "/uploads/student_zone/Student_Award_List_20251002_091121.pdf" },
+  { "name": "Students Award list 2025", "url": "/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf" }
 ];
 
 export default function StudentAwardListPage() {

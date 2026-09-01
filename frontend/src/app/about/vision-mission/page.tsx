@@ -80,7 +80,7 @@ export default function VisionMissionPage() {
             </div>
             <div className="relative min-h-[300px] md:min-h-[450px] w-full">
               <Image 
-                src="https://brharneayurved.in/assets/images/About/College.jpg" 
+                src="/assets/images/About/College.jpg" 
                 alt="B. R. Harne College Campus"
                 fill
                 className="object-cover"

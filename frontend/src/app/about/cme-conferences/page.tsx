@@ -3,21 +3,21 @@ import Link from "next/link";
 export const metadata = { title: "CME Conferences and Workshop" };
 
 const documents = [
-  { name: "CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.2021", url: "https://brharneayurved.in/uploads/about/CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.202120250325_120646.pdf" },
-  { name: "International-Yoga-Day", url: "https://brharneayurved.in/uploads/about/International-Yoga-Day20250325_121158.pdf" },
-  { name: "Report of National webinar on PANCHAKARMA AND STHANIK CHIKITSA IN STRIROGA", url: "https://brharneayurved.in/uploads/about/Report-of-National-webinar-on-PANCHAKARMA-AND-STHANIK-CHIKITSA-IN-STRIROGA-Dept.-of-Streerog-Prasuti-Tantra20250325_121838.pdf" },
-  { name: "Report of ONLINE Webinar RASAANUSANDHAN 2022", url: "https://brharneayurved.in/uploads/about/Report of ONLINE Webinar RASAANUSANDHAN 202220250331_114535.pdf" },
-  { name: "Report of Nadi Parikshana Workshop Dated 28.02.2022", url: "https://brharneayurved.in/uploads/about/Report of Nadi Parikshana Workshop Dated 28.02.202220250331_114630.pdf" },
-  { name: "National Webinar on Recent Advances in Eye E.N.T Disorders Importance of Research Methodology Statistics Date 08.08.2022", url: "https://brharneayurved.in/uploads/about/National Webinar on Recent Advances in Eye E.N.T Disorders Importance of Research Methodology Statistics Date 08.08.202220250331_114924.pdf" },
-  { name: "Workshop on Herbal Pharmaceutical Preparations 2023", url: "https://brharneayurved.in/uploads/about/Workshop on Herbal Pharmaceutical Preparations 202320250331_115304.pdf" },
-  { name: "Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup", url: "https://brharneayurved.in/uploads/about/Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup20250331_115520.pdf" },
-  { name: "Report of awareness program on pharmacovigilance and ASU & H drugs", url: "https://brharneayurved.in/uploads/about/Report of awareness program on pharmacovigilance and ASU & H drugs20250331_115752.pdf" },
-  { name: "Report of Quiz Competition Aug 2024", url: "https://brharneayurved.in/uploads/about/Report of Quiz Competition Aug 202420250331_115929.pdf" },
-  { name: "Electrocardiography Workshop Report", url: "https://brharneayurved.in/uploads/about/Electrocardiography Workshop Report20250331_120149.pdf" },
-  { name: "CME Kriya Sharir Dept 05-11-2020", url: "https://brharneayurved.in/uploads/about/CME Kriya Sharir Dept 05-11-202020250626_175955.png" },
-  { name: "Ayurveda Day 2025", url: "https://brharneayurved.in/uploads/about/Ayurveda Day 202520251219_063859.pdf" },
-  { name: "International Yoga Day 2025", url: "https://brharneayurved.in/uploads/about/International Yoga Day 202520251219_063941.pdf" },
-  { name: "International Yoga Day 2026", url: "https://brharneayurved.in/uploads/about/International Yoga Day 202620260702_065953.pdf" },
+  { name: "CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.2021", url: "/uploads/about/CME Rog Nidan Avum Vikriti Vigyana Department Dated 03.04.202120250325_120646.pdf" },
+  { name: "International-Yoga-Day", url: "/uploads/about/International-Yoga-Day20250325_121158.pdf" },
+  { name: "Report of National webinar on PANCHAKARMA AND STHANIK CHIKITSA IN STRIROGA", url: "/uploads/about/Report-of-National-webinar-on-PANCHAKARMA-AND-STHANIK-CHIKITSA-IN-STRIROGA-Dept.-of-Streerog-Prasuti-Tantra20250325_121838.pdf" },
+  { name: "Report of ONLINE Webinar RASAANUSANDHAN 2022", url: "/uploads/about/Report of ONLINE Webinar RASAANUSANDHAN 202220250331_114535.pdf" },
+  { name: "Report of Nadi Parikshana Workshop Dated 28.02.2022", url: "/uploads/about/Report of Nadi Parikshana Workshop Dated 28.02.202220250331_114630.pdf" },
+  { name: "National Webinar on Recent Advances in Eye E.N.T Disorders Importance of Research Methodology Statistics Date 08.08.2022", url: "/uploads/about/National Webinar on Recent Advances in Eye E.N.T Disorders Importance of Research Methodology Statistics Date 08.08.202220250331_114924.pdf" },
+  { name: "Workshop on Herbal Pharmaceutical Preparations 2023", url: "/uploads/about/Workshop on Herbal Pharmaceutical Preparations 202320250331_115304.pdf" },
+  { name: "Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup", url: "/uploads/about/Department of Kriya Sharir & Rachna Sharir C.M.E. Writeup20250331_115520.pdf" },
+  { name: "Report of awareness program on pharmacovigilance and ASU & H drugs", url: "/uploads/about/Report of awareness program on pharmacovigilance and ASU & H drugs20250331_115752.pdf" },
+  { name: "Report of Quiz Competition Aug 2024", url: "/uploads/about/Report of Quiz Competition Aug 202420250331_115929.pdf" },
+  { name: "Electrocardiography Workshop Report", url: "/uploads/about/Electrocardiography Workshop Report20250331_120149.pdf" },
+  { name: "CME Kriya Sharir Dept 05-11-2020", url: "/uploads/about/CME Kriya Sharir Dept 05-11-202020250626_175955.png" },
+  { name: "Ayurveda Day 2025", url: "/uploads/about/Ayurveda Day 202520251219_063859.pdf" },
+  { name: "International Yoga Day 2025", url: "/uploads/about/International Yoga Day 202520251219_063941.pdf" },
+  { name: "International Yoga Day 2026", url: "/uploads/about/International Yoga Day 202620260702_065953.pdf" },
 ];
 
 export default function CMEConferencesPage() {

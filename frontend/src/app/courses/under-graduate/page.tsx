@@ -90,7 +90,7 @@ export default function UnderGraduateCoursesPage() {
                     College Infrastructure
                   </td>
                   <td className="px-6 py-4 text-[#e8821a] hover:text-[#c46c12] hover:underline font-medium">
-                    <Link href="https://brharneayurved.in/assets/pdf/College%20Infrastructure/College-Infrastructure.pdf" target="_blank" rel="noopener noreferrer">
+                    <Link href="/assets/pdf/College Infrastructure/College-Infrastructure.pdf" target="_blank" rel="noopener noreferrer">
                       College Infrastructure
                     </Link>
                   </td>

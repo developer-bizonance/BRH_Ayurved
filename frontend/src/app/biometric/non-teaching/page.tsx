@@ -6,55 +6,55 @@ export const metadata = { title: "Non Teaching Staff Attendance" };
 const documents = [
   {
     "name": "February 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/February 202520250326_023137.pdf"
+    "url": "/uploads/biometric_attendance/February 202520250326_023137.pdf"
   },
   {
     "name": "January 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/January 202520250326_023153.pdf"
+    "url": "/uploads/biometric_attendance/January 202520250326_023153.pdf"
   },
   {
     "name": "March 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/March 202520250626_200847.pdf"
+    "url": "/uploads/biometric_attendance/March 202520250626_200847.pdf"
   },
   {
     "name": "April 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/April 202520250802_101635.pdf"
+    "url": "/uploads/biometric_attendance/April 202520250802_101635.pdf"
   },
   {
     "name": "June 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/June 202520250802_101656.pdf"
+    "url": "/uploads/biometric_attendance/June 202520250802_101656.pdf"
   },
   {
     "name": "July 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/July 202520250804_055732.pdf"
+    "url": "/uploads/biometric_attendance/July 202520250804_055732.pdf"
   },
   {
     "name": "May 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/May 202520260320_101651.pdf"
+    "url": "/uploads/biometric_attendance/May 202520260320_101651.pdf"
   },
   {
     "name": "February 2026",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/February 202620260323_080320.pdf"
+    "url": "/uploads/biometric_attendance/February 202620260323_080320.pdf"
   },
   {
     "name": "January 2026",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/January 202620260328_100842.pdf"
+    "url": "/uploads/biometric_attendance/January 202620260328_100842.pdf"
   },
   {
     "name": "December 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/December 2025 20260331_060733.pdf"
+    "url": "/uploads/biometric_attendance/December 2025 20260331_060733.pdf"
   },
   {
     "name": "March 2026",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/March 202620260402_104815.pdf"
+    "url": "/uploads/biometric_attendance/March 202620260402_104815.pdf"
   },
   {
     "name": "November 2025",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/November 202520260416_080823.pdf"
+    "url": "/uploads/biometric_attendance/November 202520260416_080823.pdf"
   },
   {
     "name": "April 2026",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/April 202620260508_091324.pdf"
+    "url": "/uploads/biometric_attendance/April 202620260508_091324.pdf"
   }
 ];
 

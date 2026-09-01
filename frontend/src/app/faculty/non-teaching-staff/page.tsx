@@ -4,8 +4,8 @@ import Link from "next/link";
 export const metadata = { title: "Non Teaching Staff" };
 
 const publications = [
-  { name: "Non Teaching Staff List", url: "https://brharneayurved.in/uploads/faculty/Non Teaching Staff List20260418_071831.pdf" },
-  { name: "Hospital Staff List", url: "https://brharneayurved.in/uploads/faculty/Hospital Staff List20260418_071909.pdf" }
+  { name: "Non Teaching Staff List", url: "/uploads/faculty/Non Teaching Staff List20260418_071831.pdf" },
+  { name: "Hospital Staff List", url: "/uploads/faculty/Hospital Staff List20260418_071909.pdf" }
 ];
 
 export default function NonTeachingStaffPage() {

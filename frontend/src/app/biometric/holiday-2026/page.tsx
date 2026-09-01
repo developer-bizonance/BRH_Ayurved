@@ -6,7 +6,7 @@ export const metadata = { title: "MUHS Holiday 2026" };
 const documents = [
   {
     "name": "MUHS Holiday 2026",
-    "url": "https://www.brharneayurved.in/uploads/biometric_attendance/MUHS Holiday 202620251216_062422.pdf"
+    "url": "/uploads/biometric_attendance/MUHS Holiday 202620251216_062422.pdf"
   }
 ];
 

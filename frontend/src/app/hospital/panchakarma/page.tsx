@@ -19,12 +19,12 @@ export default function PanchakarmaFacilitiesPage() {
 
           <div className="grid md:grid-cols-2 gap-6 pt-6">
             <img 
-              src="https://brharneayurved.in/assets/images/Hospital/Panchakarma%201.jpg" 
+              src="/assets/images/Hospital/Panchakarma 1.jpg" 
               alt="Panchakarma Facility 1" 
               className="w-full h-auto rounded-xl shadow-sm border border-gray-100"
             />
             <img 
-              src="https://brharneayurved.in/assets/images/Hospital/Panchakarma%202.jpg" 
+              src="/assets/images/Hospital/Panchakarma 2.jpg" 
               alt="Panchakarma Facility 2" 
               className="w-full h-auto rounded-xl shadow-sm border border-gray-100"
             />

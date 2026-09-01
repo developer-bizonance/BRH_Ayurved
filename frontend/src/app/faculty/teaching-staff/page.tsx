@@ -4,23 +4,23 @@ import Link from "next/link";
 export const metadata = { title: "Teaching Staff" };
 
 const publications = [
-  { name: "Principal", url: "https://brharneayurved.in/uploads/faculty/Principal20260123_112906.pdf" },
-  { name: "Department of Dravyaguna Vigyana", url: "https://brharneayurved.in/uploads/faculty/Department of Dravyaguna Vigyana20260123_112953.pdf" },
-  { name: "Department of Kaumarbhritya -Bala Roga", url: "https://brharneayurved.in/uploads/faculty/Department of Kaumarbhritya -Bala Roga20260123_113047.pdf" },
-  { name: "Department of Kriya Sharir", url: "https://brharneayurved.in/uploads/faculty/Department of Kriya Sharir20260123_113157.pdf" },
-  { name: "Department of Panchakarma", url: "https://brharneayurved.in/uploads/faculty/Department of Panchakarma20260123_113236.pdf" },
-  { name: "Department of Rachana Sharir", url: "https://brharneayurved.in/uploads/faculty/Department of Rachana Sharir20260123_113315.pdf" },
-  { name: "Department of Rasa Shastra & Bhaisajya Kalpana", url: "https://brharneayurved.in/uploads/faculty/Department of Rasa Shastra & Bhaisajya Kalpana20260123_113400.pdf" },
-  { name: "Department of Shalya Tantra", url: "https://brharneayurved.in/uploads/faculty/Department of Shalya Tantra20260123_113522.pdf" },
-  { name: "Department of Rog Nidan avum Vikriti Vigyan", url: "https://brharneayurved.in/uploads/faculty/Department of Rog Nidan avum Vikriti Vigyan20260123_113933.pdf" },
-  { name: "Department of Prasuti & Stri Roga", url: "https://brharneayurved.in/uploads/faculty/Department of Prasuti & Stri Roga20260123_114017.pdf" },
-  { name: "Department of Swasthavritta & Yoga", url: "https://brharneayurved.in/uploads/faculty/Department of Swasthavritta & Yoga20260123_120207.pdf" },
-  { name: "Department of Shalakya Tantra", url: "https://brharneayurved.in/uploads/faculty/Department of Shalakya Tantra20260306_101844.pdf" },
-  { name: "Department of Ayurved Samhita & Siddhant sanskrit", url: "https://brharneayurved.in/uploads/faculty/Department of Ayurved Samhita & Siddhant sanskrit20260420_105259.pdf" },
-  { name: "Department of Kaychikitsa", url: "https://brharneayurved.in/uploads/faculty/Department of Kaychikitsa 20260420_105423.pdf" },
-  { name: "Department of Agad Tantra avum Vidhi Vaidyaka", url: "https://brharneayurved.in/uploads/faculty/Department of Agad Tantra avum Vidhi Vaidyaka20260420_105617.pdf" },
-  { name: "Teaching Staff Common List", url: "https://brharneayurved.in/uploads/faculty/Teaching Staff Common List20260421_101156.pdf" },
-  { name: "Department of Biostatistician", url: "https://brharneayurved.in/uploads/faculty/Department of Biostatistician20260427_121533.pdf" }
+  { name: "Principal", url: "/uploads/faculty/Principal20260123_112906.pdf" },
+  { name: "Department of Dravyaguna Vigyana", url: "/uploads/faculty/Department of Dravyaguna Vigyana20260123_112953.pdf" },
+  { name: "Department of Kaumarbhritya -Bala Roga", url: "/uploads/faculty/Department of Kaumarbhritya -Bala Roga20260123_113047.pdf" },
+  { name: "Department of Kriya Sharir", url: "/uploads/faculty/Department of Kriya Sharir20260123_113157.pdf" },
+  { name: "Department of Panchakarma", url: "/uploads/faculty/Department of Panchakarma20260123_113236.pdf" },
+  { name: "Department of Rachana Sharir", url: "/uploads/faculty/Department of Rachana Sharir20260123_113315.pdf" },
+  { name: "Department of Rasa Shastra & Bhaisajya Kalpana", url: "/uploads/faculty/Department of Rasa Shastra & Bhaisajya Kalpana20260123_113400.pdf" },
+  { name: "Department of Shalya Tantra", url: "/uploads/faculty/Department of Shalya Tantra20260123_113522.pdf" },
+  { name: "Department of Rog Nidan avum Vikriti Vigyan", url: "/uploads/faculty/Department of Rog Nidan avum Vikriti Vigyan20260123_113933.pdf" },
+  { name: "Department of Prasuti & Stri Roga", url: "/uploads/faculty/Department of Prasuti & Stri Roga20260123_114017.pdf" },
+  { name: "Department of Swasthavritta & Yoga", url: "/uploads/faculty/Department of Swasthavritta & Yoga20260123_120207.pdf" },
+  { name: "Department of Shalakya Tantra", url: "/uploads/faculty/Department of Shalakya Tantra20260306_101844.pdf" },
+  { name: "Department of Ayurved Samhita & Siddhant sanskrit", url: "/uploads/faculty/Department of Ayurved Samhita & Siddhant sanskrit20260420_105259.pdf" },
+  { name: "Department of Kaychikitsa", url: "/uploads/faculty/Department of Kaychikitsa 20260420_105423.pdf" },
+  { name: "Department of Agad Tantra avum Vidhi Vaidyaka", url: "/uploads/faculty/Department of Agad Tantra avum Vidhi Vaidyaka20260420_105617.pdf" },
+  { name: "Teaching Staff Common List", url: "/uploads/faculty/Teaching Staff Common List20260421_101156.pdf" },
+  { name: "Department of Biostatistician", url: "/uploads/faculty/Department of Biostatistician20260427_121533.pdf" }
 ];
 
 export default function TeachingStaffPage() {

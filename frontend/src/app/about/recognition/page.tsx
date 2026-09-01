@@ -7,13 +7,13 @@ const recognitionData = [
   {
     category: "NCISM Permission",
     files: [
-      { name: "NCISM Permission for AY 2024-25", url: "https://brharneayurved.in/uploads/about/NCISM%20Permission%20for%20AY%202024-2520260410_072044.pdf" }
+      { name: "NCISM Permission for AY 2025-26", url: "/uploads/recognition/NCISM%20Permission%20for%20AY%202025-2620260307_081556.pdf" }
     ]
   },
   {
     category: "MUHS Affiliation",
     files: [
-      { name: "MUHS Affiliation 24-25", url: "https://brharneayurved.in/uploads/about/MUHS%20Affiliation%2024-2520260410_072237.pdf" }
+      { name: "MUHS Affiliation 25-26", url: "/uploads/recognition/MUHS%20Affiliation%2025-2620260307_081641.pdf" }
     ]
   }
 ];

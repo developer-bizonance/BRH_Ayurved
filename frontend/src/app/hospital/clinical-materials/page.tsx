@@ -4,10 +4,10 @@ import Link from "next/link";
 export const metadata = { title: "Details Of Clinical Materials" };
 
 const clinicalMaterialsFiles = [
-  { name: "Details of Clinical Material", url: "https://brharneayurved.in/uploads/hospital/Details of Clinical Material20250327_090959.pdf" },
-  { name: "Instruments and Equipments Details for Operation Theater", url: "https://brharneayurved.in/uploads/hospital/Instruments and Equipments Details for Operation Theater20250327_091030.pdf" },
-  { name: "Instruments and Equipments for OPD", url: "https://brharneayurved.in/uploads/hospital/Instruments and Equipments for OPD20250327_091105.pdf" },
-  { name: "Instruments and Equipments for Labour Room", url: "https://brharneayurved.in/uploads/hospital/Instruments and Equipments for Labour Room20250327_091132.pdf" }
+  { name: "Details of Clinical Material", url: "/uploads/hospital/Details of Clinical Material20250327_090959.pdf" },
+  { name: "Instruments and Equipments Details for Operation Theater", url: "/uploads/hospital/Instruments and Equipments Details for Operation Theater20250327_091030.pdf" },
+  { name: "Instruments and Equipments for OPD", url: "/uploads/hospital/Instruments and Equipments for OPD20250327_091105.pdf" },
+  { name: "Instruments and Equipments for Labour Room", url: "/uploads/hospital/Instruments and Equipments for Labour Room20250327_091132.pdf" }
 ];
 
 export default function DetailsOfClinicalMaterialsPage() {

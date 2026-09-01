@@ -10,19 +10,19 @@ const admissionFiles = [
   },
   {
     "name": "Fees Structure",
-    "url": "https://brharneayurved.in/uploads/fees_structure/fees_structure_20260507_085215.pdf"
+    "url": "/uploads/fees_structure/fees_structure_20260507_085215.pdf"
   },
   {
     "name": "List of Documents",
-    "url": "https://brharneayurved.in/uploads/admission/list of documents.pdf"
+    "url": "/uploads/admission/list of documents.pdf"
   },
   {
     "name": "Previous Year Students List",
-    "url": "https://brharneayurved.in/uploads/student_admission_list/Previous Year Students List20260106_061429.pdf"
+    "url": "/uploads/student_admission_list/Previous Year Students List20260106_061429.pdf"
   },
   {
     "name": "Current Year Students List",
-    "url": "https://brharneayurved.in/uploads/student_admission_list/Current Year Students List 20260106_061505.pdf"
+    "url": "/uploads/student_admission_list/Current Year Students List 20260106_061505.pdf"
   }
 ];
 

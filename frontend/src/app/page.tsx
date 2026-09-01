@@ -16,14 +16,14 @@ export default async function HomePage() {
   } catch {
     // backend not yet running — use fallback
     notices = [
-      { id: 1, title: "Prakriti Parikshan Report of CISF Unit JWC Mumbai", url: "https://brharneayurved.in/uploads/whats_new/Prakriti%20Parikshan%20Report%20of%20CISF%20Unit%20JWC%20Mumbai%20and%20RCP%20Mumbai%20with%2008%20volunteers%20on%2016-01-202520250325_090733.pdf", isNew: true, date: "2025-03-25" },
-      { id: 2, title: "Community Health Check up Camp", url: "https://brharneayurved.in/uploads/whats_new/Community%20Health%20Check%20up%20Camp20250331_103621.pdf", isNew: true, date: "2025-03-31" },
-      { id: 3, title: "Run For Ayurveda Students Prize Achievement", url: "https://brharneayurved.in/uploads/whats_new/whats_new_20260214_070800.pdf", isNew: true, date: "2026-02-14" },
-      { id: 4, title: "Spandan 2026", url: "https://brharneayurved.in/uploads/whats_new/Spandan%20202620260516_085155.pdf", isNew: true, date: "2026-05-16" },
-      { id: 5, title: "Summer Vacation 2026", url: "https://brharneayurved.in/uploads/whats_new/Summer%20Vacation%20202620260518_020754.pdf", isNew: true, date: "2026-05-18" },
-      { id: 6, title: "International Yoga Day 2026", url: "https://brharneayurved.in/uploads/whats_new/International%20Yoga%20Day%20202620260702_070135.pdf", isNew: true, date: "2026-07-02" },
-      { id: 7, title: "Community health check up Camp 2025", url: "https://brharneayurved.in/uploads/whats_new/Community%20health%20check%20up%20Camp%20202520260824_075638.pdf", isNew: true, date: "2026-08-24" },
-      { id: 8, title: "Community health check up Camp 2026", url: "https://brharneayurved.in/uploads/whats_new/Community%20health%20check%20up%20Camp%20202620260824_075716.pdf", isNew: true, date: "2026-08-24" },
+      { id: 1, title: "Prakriti Parikshan Report of CISF Unit JWC Mumbai", url: "/uploads/whats_new/Prakriti Parikshan Report of CISF Unit JWC Mumbai and RCP Mumbai with 08 volunteers on 16-01-202520250325_090733.pdf", isNew: true, date: "2025-03-25" },
+      { id: 2, title: "Community Health Check up Camp", url: "/uploads/whats_new/Community Health Check up Camp20250331_103621.pdf", isNew: true, date: "2025-03-31" },
+      { id: 3, title: "Run For Ayurveda Students Prize Achievement", url: "/uploads/whats_new/whats_new_20260214_070800.pdf", isNew: true, date: "2026-02-14" },
+      { id: 4, title: "Spandan 2026", url: "/uploads/whats_new/Spandan 202620260516_085155.pdf", isNew: true, date: "2026-05-16" },
+      { id: 5, title: "Summer Vacation 2026", url: "/uploads/whats_new/Summer Vacation 202620260518_020754.pdf", isNew: true, date: "2026-05-18" },
+      { id: 6, title: "International Yoga Day 2026", url: "/uploads/whats_new/International Yoga Day 202620260702_070135.pdf", isNew: true, date: "2026-07-02" },
+      { id: 7, title: "Community health check up Camp 2025", url: "/uploads/whats_new/Community health check up Camp 202520260824_075638.pdf", isNew: true, date: "2026-08-24" },
+      { id: 8, title: "Community health check up Camp 2026", url: "/uploads/whats_new/Community health check up Camp 202620260824_075716.pdf", isNew: true, date: "2026-08-24" },
     ];
   }
 

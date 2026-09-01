@@ -82,7 +82,7 @@ export default function UndergraduatePage() {
                   <tr className="hover:bg-gray-50 transition-colors">
                     <td className="px-5 py-4 font-semibold">College Infrastructure</td>
                     <td className="px-5 py-4">
-                      <a href="https://www.brharneayurved.in/assets/pdf/College%20Infrastructure/College-Infrastructure.pdf" target="_blank" rel="noopener noreferrer" className="text-[#57B745] hover:underline font-medium flex items-center gap-2">
+                      <a href="/assets/pdf/College Infrastructure/College-Infrastructure.pdf" target="_blank" rel="noopener noreferrer" className="text-[#57B745] hover:underline font-medium flex items-center gap-2">
                         View College Infrastructure PDF
                       </a>
                     </td>

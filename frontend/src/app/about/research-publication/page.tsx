@@ -5,13 +5,13 @@ import { FileText } from "lucide-react";
 export const metadata = { title: "Research Publication" };
 
 const publications = [
-  { name: "Research Publication Year 2020", url: "https://brharneayurved.in/uploads/about/Research%20and%20Publication%20202020250325_113700.pdf" },
-  { name: "Research Publication Year 2021", url: "https://brharneayurved.in/uploads/about/Research%20and%20Publication%20202120250325_113753.pdf" },
-  { name: "All Publication 2020-2021", url: "https://brharneayurved.in/uploads/about/Research%20and%20Publication%202020-202120250325_113837.pdf" },
-  { name: "All Publication 2022", url: "https://brharneayurved.in/uploads/about/All%20%20Publication%20202020250325_113936.pdf" },
-  { name: "Research Publication Year 2023", url: "https://brharneayurved.in/uploads/about/Research%20Publication%20Year%20202320250331_111544.pdf" },
-  { name: "Research Publication Year 2024", url: "https://brharneayurved.in/uploads/about/Research%20Publication%20Year%20202420250626_174910.pdf" },
-  { name: "Research publications 2025-26", url: "https://brharneayurved.in/uploads/about/Research%20publications%202025-2620260420_104028.pdf" },
+  { name: "Research Publication Year 2020", url: "/uploads/about/Research and Publication 202020250325_113700.pdf" },
+  { name: "Research Publication Year 2021", url: "/uploads/about/Research and Publication 202120250325_113753.pdf" },
+  { name: "All Publication 2020-2021", url: "/uploads/about/Research and Publication 2020-202120250325_113837.pdf" },
+  { name: "All Publication 2022", url: "/uploads/about/All  Publication 202020250325_113936.pdf" },
+  { name: "Research Publication Year 2023", url: "/uploads/about/Research Publication Year 202320250331_111544.pdf" },
+  { name: "Research Publication Year 2024", url: "/uploads/about/Research Publication Year 202420250626_174910.pdf" },
+  { name: "Research publications 2025-26", url: "/uploads/about/Research publications 2025-2620260420_104028.pdf" },
 ];
 
 export default function ResearchPublicationPage() {

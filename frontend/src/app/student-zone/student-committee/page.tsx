@@ -4,10 +4,10 @@ import Link from "next/link";
 export const metadata = { title: "Details of Student Committee" };
 
 const files = [
-  { "name": "2019-2020", "url": "https://brharneayurved.in/uploads/student_zone/2019-2020_20251002_091256.pdf" },
-  { "name": "2020-2021", "url": "https://brharneayurved.in/uploads/student_zone/2020-2021_20251002_091415.pdf" },
-  { "name": "2022-2023", "url": "https://brharneayurved.in/uploads/student_zone/2022-2023_20251002_091518.pdf" },
-  { "name": "2024-2025", "url": "https://brharneayurved.in/uploads/student_zone/2024-2025_20251002_091628.pdf" }
+  { "name": "2019-2020", "url": "/uploads/student_zone/2019-2020_20251002_091256.pdf" },
+  { "name": "2020-2021", "url": "/uploads/student_zone/2020-2021_20251002_091415.pdf" },
+  { "name": "2022-2023", "url": "/uploads/student_zone/2022-2023_20251002_091518.pdf" },
+  { "name": "2024-2025", "url": "/uploads/student_zone/2024-2025_20251002_091628.pdf" }
 ];
 
 export default function StudentCommitteePage() {

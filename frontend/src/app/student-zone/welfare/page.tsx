@@ -6,23 +6,23 @@ export const metadata = { title: "Student Social Welfare" };
 const documents = [
   {
     "name": "MUHS Scheme 2024",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf"
+    "url": "/uploads/student_zone/MUHS_Scheme_2024_20251002_091956.pdf"
   },
   {
     "name": "Sports & Cultural Achievements 2024",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf"
+    "url": "/uploads/student_zone/Sports___Cultural_Achievements_2024_20251002_092050.pdf"
   },
   {
     "name": "Vidyanjali Registration",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf"
+    "url": "/uploads/student_zone/Vidyanjali_Registration_20251002_092140.pdf"
   },
   {
     "name": "MUHS Scheme 2025",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf"
+    "url": "/uploads/student_zone/MUHS_Scheme_2025_20260105_111222.pdf"
   },
   {
     "name": "Sports and Cultural Achievement 2025",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf"
+    "url": "/uploads/student_zone/Sports_and_Cultural_Achievement_2025_20260105_111403.pdf"
   }
 ];
 

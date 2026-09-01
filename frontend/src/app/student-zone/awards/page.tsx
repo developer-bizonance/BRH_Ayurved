@@ -6,11 +6,11 @@ export const metadata = { title: "Student Award List" };
 const documents = [
   {
     "name": "Student Award List",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/Student_Award_List_20251002_091121.pdf"
+    "url": "/uploads/student_zone/Student_Award_List_20251002_091121.pdf"
   },
   {
     "name": "Students Award list 2025",
-    "url": "https://www.brharneayurved.in/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf"
+    "url": "/uploads/student_zone/Students_Award_list_2025_20251219_113839.pdf"
   }
 ];
 

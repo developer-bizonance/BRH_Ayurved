@@ -52,6 +52,10 @@ const navItems: NavItem[] = [
         "href": "/about/faculty-development"
       },
       {
+        "label": "Gallery",
+        "href": "/about/gallery"
+      },
+      {
         "label": "Recognition",
         "href": "/about/recognition"
       }
@@ -148,22 +152,6 @@ const navItems: NavItem[] = [
         "href": "/hospital/about"
       },
       {
-        "label": "Operation Theater Block",
-        "href": "/hospital/operation-theater"
-      },
-      {
-        "label": "Physiotherapy",
-        "href": "/hospital/physiotherapy"
-      },
-      {
-        "label": "Panchakarma Facilities",
-        "href": "/hospital/panchakarma"
-      },
-      {
-        "label": "Clinical Laboratory",
-        "href": "/hospital/clinical-laboratory"
-      },
-      {
         "label": "Hospital Infrastructure",
         "href": "/hospital/infrastructure"
       },
@@ -190,6 +178,22 @@ const navItems: NavItem[] = [
       {
         "label": "Yearly OPD – IPD Record",
         "href": "/hospital/yearly-record"
+      },
+      {
+        "label": "Operation Theater Block",
+        "href": "/hospital/operation-theater"
+      },
+      {
+        "label": "Physiotherapy",
+        "href": "/hospital/physiotherapy"
+      },
+      {
+        "label": "Panchakarma Facilities",
+        "href": "/hospital/panchakarma"
+      },
+      {
+        "label": "Clinical Laboratory",
+        "href": "/hospital/clinical-laboratory"
       }
     ]
   },
@@ -270,7 +274,24 @@ const navItems: NavItem[] = [
   },
   {
     "label": "Admissions",
-    "href": "/admissions"
+    "children": [
+      {
+        "label": "Admissions Details",
+        "href": "/admissions/details"
+      },
+      {
+        "label": "Fees Structure",
+        "href": "/admissions/fees"
+      },
+      {
+        "label": "List of Documents",
+        "href": "/admissions/documents"
+      },
+      {
+        "label": "Student Admission List",
+        "href": "/admissions/student-list"
+      }
+    ]
   },
   {
     "label": "Student Zone",
@@ -309,8 +330,12 @@ const navItems: NavItem[] = [
         "href": "/biometric-attendance/hospital-staff"
       },
       {
-        "label": "MUHS Holidays",
-        "href": "/biometric-attendance/muhs-holidays"
+        "label": "MUHS Holiday 2025",
+        "href": "/biometric-attendance/muhs-holiday-2025"
+      },
+      {
+        "label": "MUHS Holiday 2026",
+        "href": "/biometric-attendance/muhs-holiday-2026"
       }
     ]
   },

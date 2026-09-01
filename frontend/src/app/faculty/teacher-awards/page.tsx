@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata = { title: "Teacher Awards" };
 
 const publications = [
-  { name: "Teacher Awards 2025", url: "https://brharneayurved.in/uploads/faculty/Teacher Awards 202520251216_100020.pdf" }
+  { name: "Teacher Awards 2025", url: "/uploads/faculty/Teacher Awards 202520251216_100020.pdf" }
 ];
 
 export default function TeacherAwardsPage() {

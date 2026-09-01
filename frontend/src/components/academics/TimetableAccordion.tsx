@@ -8,15 +8,15 @@ const timetableData = [
   {
     category: "1st BAMS Time Table",
     documents: [
-      { name: "Batch 2024-25", url: "https://www.brharneayurved.in/uploads/academics/Batch%202024-2520250916_083027.pdf" },
-      { name: "FY 2024-25 Timetable", url: "https://www.brharneayurved.in/uploads/academics/FY%202024-25%20Timetable%2020260410_073247.pdf" },
-      { name: "FY 2025-26 Timetable", url: "https://www.brharneayurved.in/uploads/academics/FY%202025-26%20Timetable%2020260410_073328.pdf" },
+      { name: "Batch 2024-25", url: "/uploads/academics/Batch 2024-2520250916_083027.pdf" },
+      { name: "FY 2024-25 Timetable", url: "/uploads/academics/FY 2024-25 Timetable 20260410_073247.pdf" },
+      { name: "FY 2025-26 Timetable", url: "/uploads/academics/FY 2025-26 Timetable 20260410_073328.pdf" },
     ]
   },
   {
     category: "2nd BAMS Time Table",
     documents: [
-      { name: "SYBAMS batch 23-24 Timetable", url: "https://www.brharneayurved.in/uploads/academics/SYBAMS%20batch%2023-24%20Timetable%2020260514_040424.pdf" }
+      { name: "SYBAMS batch 23-24 Timetable", url: "/uploads/academics/SYBAMS%20batch%2023-24%20Timetable%2020260514_040424.pdf" }
     ]
   },
   {
@@ -26,9 +26,8 @@ const timetableData = [
   {
     category: "FINAL BAMS Time Table",
     documents: [
-      { name: "Tybams 22-23 batch timetable", url: "https://www.brharneayurved.in/uploads/academics/Tybams%2022-23%20batch%20timetable%2020260410_111537.pdf" },
-      { name: "Tybams 21-22 batch timetable", url: "https://www.brharneayurved.in/uploads/academics/Tybams%2021-22%20batch%20timetable%2020260410_111637.pdf" },
-      { name: "TYBAMS22-23 batch timetable updated", url: "https://www.brharneayurved.in/uploads/academics/TYBAMS22-23%20batch%20timetable%20updated20260505_065248.pdf" }
+      { name: "Tybams 21-22 batch timetable", url: "/uploads/academics/Tybams 21-22 batch timetable 20260410_111637.pdf" },
+      { name: "Final BAMS Timetable Batch 2022-23", url: "/uploads/academics/Final BAMS Timetable Batch 2022-2320260729_095624.pdf" }
     ]
   }
 ];

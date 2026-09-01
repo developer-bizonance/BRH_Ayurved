@@ -4,7 +4,7 @@ import Link from "next/link";
 export const metadata = { title: "Hospital Infrastructure" };
 
 const infrastructureFiles = [
-  { name: "Hospital Infrastructure", url: "https://brharneayurved.in/uploads/hospital/Hospital Infrastructure20250327_090803.pdf" }
+  { name: "Hospital Infrastructure", url: "/uploads/hospital/Hospital Infrastructure20250327_090803.pdf" }
 ];
 
 export default function HospitalInfrastructurePage() {

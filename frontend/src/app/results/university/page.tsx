@@ -6,19 +6,19 @@ export const metadata = { title: "University Result" };
 const documents = [
   {
     name: "Winter-2023",
-    url: "https://www.brharneayurved.in/uploads/results/Winter-202320250327_094602.pdf"
+    url: "/uploads/results/Winter-202320250327_094602.pdf"
   },
   {
     name: "Summer-2024",
-    url: "https://www.brharneayurved.in/uploads/results/Summer-202420250524_022901.pdf"
+    url: "/uploads/results/Summer-202420250524_022901.pdf"
   },
   {
     name: "Winter-2024",
-    url: "https://www.brharneayurved.in/uploads/results/Winter-202420250916_073605.pdf"
+    url: "/uploads/results/Winter-202420250916_073605.pdf"
   },
   {
     name: "Summer -2025",
-    url: "https://www.brharneayurved.in/uploads/results/Summer -202520251204_115229.pdf"
+    url: "/uploads/results/Summer -202520251204_115229.pdf"
   }
 ];
 
@@ -27,7 +27,7 @@ export default function UniversityResultPage() {
     <div>
       <PageBanner title="University Result" breadcrumbs={[{ label: "Results" }, { label: "University Result" }]} />
       
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 pt-8">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16 pt-0">
         {documents.length === 0 ? (
           <div className="bg-white rounded-2xl p-10 text-center shadow-sm border border-gray-100">
             <p className="text-gray-500">No documents found for this section.</p>

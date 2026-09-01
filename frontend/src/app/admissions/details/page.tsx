@@ -33,8 +33,8 @@ export default function AdmissionsDetailsPage() {
     <div>
       <PageBanner title="Admissions Details" breadcrumbs={[{ label: "Admissions" }, { label: "Details" }]} />
       
-      <div className="max-w-5xl mx-auto px-6 py-14">
-        <h2 className="text-2xl font-bold text-[#57B745] font-[var(--font-playfair)] mb-8 border-l-4 border-[#57B745] pl-4">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-14 pt-0">
+        <h2 className="text-lg md:text-xl font-bold text-gray-800 mb-6">
           B.A.M.S. (Ayurvedacharya)
         </h2>
 
@@ -43,15 +43,12 @@ export default function AdmissionsDetailsPage() {
             <tbody className="divide-y divide-gray-100">
               {admissionDetails.map((detail, idx) => (
                 <tr key={idx} className="hover:bg-gray-50/50 transition-colors">
-                  <td className="px-6 py-6 align-top w-1/4 bg-gray-50/30">
-                    <div className="flex items-center gap-3 font-semibold text-[#57B745]">
-                      <div className="p-2 bg-white rounded-lg shadow-sm border border-gray-100 hidden sm:block">
-                        {detail.icon}
-                      </div>
+                  <td className="px-6 py-4 align-top w-1/4 bg-gray-50/30 border-r border-gray-100">
+                    <div className="flex items-center gap-3 font-semibold text-gray-800">
                       {detail.label}
                     </div>
                   </td>
-                  <td className="px-6 py-6 text-gray-600 leading-relaxed">
+                  <td className="px-6 py-4 text-gray-600 leading-relaxed">
                     {detail.link ? (
                       <div className="flex items-center gap-2">
                         {detail.value}{" "}

@@ -8,30 +8,30 @@ const documentsData = [
   {
     category: "Infrastructure",
     files: [
-      { name: "College Infrastructure", url: "https://brharneayurved.in/uploads/about/college infrastructure20250331_104427.pdf" }
+      { name: "College Infrastructure", url: "/uploads/about/college infrastructure20250331_104427.pdf" }
     ]
   },
   {
     category: "Recognition and Affiliation",
     files: [
-      { name: "NCISM Permission for AY 2025-26", url: "https://brharneayurved.in/uploads/about/NCISM Permission for AY 2025-2620260227_093710.pdf" },
-      { name: "MUHS Affiliation 25-26", url: "https://brharneayurved.in/uploads/about/MUHS Affiliation 20260227_093845.pdf" }
+      { name: "NCISM Permission for AY 2025-26", url: "/uploads/about/NCISM Permission for AY 2025-2620260227_093710.pdf" },
+      { name: "MUHS Affiliation 25-26", url: "/uploads/about/MUHS Affiliation 20260227_093845.pdf" }
     ]
   },
   {
     category: "State Government Permission",
     files: [
-      { name: "State government recognition", url: "https://brharneayurved.in/uploads/about/State government recognition 20260227_094125.pdf" }
+      { name: "State government recognition", url: "/uploads/about/State government recognition 20260227_094125.pdf" }
     ]
   },
   {
     category: "College Activities",
     files: [
-      { name: "Mudra 2024-2025", url: "https://brharneayurved.in/uploads/about/Mudra 24 2520250626_174048.pdf" },
-      { name: "REPORT OF SURYANAMSKAR DAY", url: "https://brharneayurved.in/uploads/about/REPORT OF SURYANAMSKAR DAY20260123_115827.pdf" },
-      { name: "Ayush Expo 2025", url: "https://brharneayurved.in/uploads/about/Ayush Expo 202520260124_094952.pdf" },
-      { name: "Charak Jayanti 2025", url: "https://brharneayurved.in/uploads/about/Charak Jayanti 202520260227_095632.pdf" },
-      { name: "Blood Donation Camp 2025-26", url: "https://brharneayurved.in/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf" }
+      { name: "Mudra 2024-2025", url: "/uploads/about/Mudra 24 2520250626_174048.pdf" },
+      { name: "REPORT OF SURYANAMSKAR DAY", url: "/uploads/about/REPORT OF SURYANAMSKAR DAY20260123_115827.pdf" },
+      { name: "Ayush Expo 2025", url: "/uploads/about/Ayush Expo 202520260124_094952.pdf" },
+      { name: "Charak Jayanti 2025", url: "/uploads/about/Charak Jayanti 202520260227_095632.pdf" },
+      { name: "Blood Donation Camp 2025-26", url: "/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf" }
     ]
   }
 ];

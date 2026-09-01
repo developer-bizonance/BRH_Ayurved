@@ -6,23 +6,23 @@ export const metadata = { title: "Yearly OPD - IPD Record" };
 const yearlyRecordsFiles = [
   {
     "name": "January 2019 - December 2019",
-    "url": "https://www.brharneayurved.in/uploads/hospital/January 2019 - December 201920250628_110902.pdf"
+    "url": "/uploads/hospital/January 2019 - December 201920250628_110902.pdf"
   },
   {
     "name": "January 2020 - December 2020",
-    "url": "https://www.brharneayurved.in/uploads/hospital/January 2020 - December 202020250628_110952.pdf"
+    "url": "/uploads/hospital/January 2020 - December 202020250628_110952.pdf"
   },
   {
     "name": "January 2021 - December 2021",
-    "url": "https://www.brharneayurved.in/uploads/hospital/January 2021 - December 202120250628_111045.pdf"
+    "url": "/uploads/hospital/January 2021 - December 202120250628_111045.pdf"
   },
   {
     "name": "January 2024 - December 2024",
-    "url": "https://www.brharneayurved.in/uploads/hospital/January 2024 - December 202420250628_111222.pdf"
+    "url": "/uploads/hospital/January 2024 - December 202420250628_111222.pdf"
   },
   {
     "name": "January 2025 - December 2025",
-    "url": "https://www.brharneayurved.in/uploads/hospital/January 2025 - December 202520260207_073502.pdf"
+    "url": "/uploads/hospital/January 2025 - December 202520260207_073502.pdf"
   }
 ];
 

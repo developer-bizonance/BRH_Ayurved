@@ -6,7 +6,7 @@ import { ExternalLink } from "lucide-react";
 const institutes = [
   {
     name: "Jai Shree Siddhivinayak Foundation",
-    logo: "https://www.brharneayurved.in/assets/images/logos/foundation.jpeg",
+    logo: "/assets/images/logos/foundation.jpeg",
     href: "#",
   },
   {
@@ -16,17 +16,17 @@ const institutes = [
   },
   {
     name: "B. R. Harne College of Pharmacy",
-    logo: "https://www.brharneayurved.in/assets/images/logos/pharmacy.png",
+    logo: "/assets/images/logos/pharmacy.png",
     href: "http://brharnepharmacy.in/",
   },
   {
     name: "B. R. Harne School of Nursing (GNM)",
-    logo: "https://www.brharneayurved.in/assets/images/logos/nursing.jpg",
+    logo: "/assets/images/logos/nursing.jpg",
     href: "https://brharnenursing.in/",
   },
   {
     name: "B. R. Harne College of Physiotherapy",
-    logo: "https://www.brharneayurved.in/assets/images/logos/Physiotherapy.png",
+    logo: "/assets/images/logos/Physiotherapy.png",
     href: "https://brharnephysiotherapy.com/",
   },
 ];
