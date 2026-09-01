@@ -49,30 +49,39 @@ export default function OtherInstitutes() {
 
         <div className="relative w-full py-4">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6">
-            {institutes.map((inst, idx) => (
-              <a
-                key={`${inst.name}-${idx}`}
-                href={inst.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="group card-hover bg-white rounded-xl p-6 flex flex-col items-center border border-gray-100 shadow-sm transition-all hover:shadow-md hover:-translate-y-1 min-h-[220px]"
-              >
-                <div className="w-full h-24 relative flex-shrink-0 mb-4">
-                  <Image
-                    src={inst.logo}
-                    alt={inst.name}
-                    fill
-                    className="object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-300"
-                  />
-                </div>
-                <p className="text-center text-sm text-gray-700 font-medium leading-snug group-hover:text-[#57B745] transition-colors mb-4 flex-grow flex items-center">
-                  {inst.name}
-                </p>
-                <div className="flex items-center gap-1 text-xs text-[#57B745] font-semibold mt-auto">
-                  Read More <ExternalLink size={12} />
-                </div>
-              </a>
-            ))}
+            {institutes.map((inst, idx) => {
+              const isDummyLink = inst.href === "#";
+              const CardWrapper = isDummyLink ? "div" : "a";
+              const wrapperProps = isDummyLink
+                ? { className: "group card-hover bg-white rounded-xl p-6 flex flex-col items-center border border-gray-100 shadow-sm transition-all hover:shadow-md hover:-translate-y-1 min-h-[220px]" }
+                : {
+                    href: inst.href,
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "group card-hover bg-white rounded-xl p-6 flex flex-col items-center border border-gray-100 shadow-sm transition-all hover:shadow-md hover:-translate-y-1 min-h-[220px]",
+                  };
+
+              return (
+                <CardWrapper key={`${inst.name}-${idx}`} {...wrapperProps}>
+                  <div className="w-full h-24 relative flex-shrink-0 mb-4">
+                    <Image
+                      src={inst.logo}
+                      alt={inst.name}
+                      fill
+                      className="object-contain mix-blend-multiply group-hover:scale-105 transition-transform duration-300"
+                    />
+                  </div>
+                  <p className="text-center text-sm text-gray-700 font-medium leading-snug group-hover:text-[#57B745] transition-colors mb-4 flex-grow flex items-center">
+                    {inst.name}
+                  </p>
+                  {!isDummyLink && (
+                    <div className="flex items-center gap-1 text-xs text-[#57B745] font-semibold mt-auto">
+                      Read More <ExternalLink size={12} />
+                    </div>
+                  )}
+                </CardWrapper>
+              );
+            })}
           </div>
         </div>
       </div>
