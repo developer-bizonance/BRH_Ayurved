@@ -175,93 +175,87 @@ const sections = [
     ]
   },
   {
-    "category": "Second Year (New Batch)",
-    "files": [],
-    "subsections": [
+    "category": "Third Year",
+    "files": [
       {
-        "category": "Final Year",
-        "files": [
-          {
-            "name": "April 2025",
-            "url": "/uploads/student_zone/April_2025_20260202_080433.pdf"
-          },
-          {
-            "name": "May 2025",
-            "url": "/uploads/student_zone/May_2025_20260202_081214.pdf"
-          },
-          {
-            "name": "June 2025",
-            "url": "/uploads/student_zone/June_2025_20260202_081251.pdf"
-          },
-          {
-            "name": "July 2025",
-            "url": "/uploads/student_zone/July_2025_20260202_081343.pdf"
-          },
-          {
-            "name": "August 2025",
-            "url": "/uploads/student_zone/August_2025_20260202_081453.pdf"
-          },
-          {
-            "name": "September 2025",
-            "url": "/uploads/student_zone/September_2025_20260202_082211.pdf"
-          },
-          {
-            "name": "October 2025",
-            "url": "/uploads/student_zone/October_2025_20260202_082303.pdf"
-          },
-          {
-            "name": "November 2025",
-            "url": "/uploads/student_zone/November_2025_20260202_082348.pdf"
-          },
-          {
-            "name": "December 2025",
-            "url": "/uploads/student_zone/December_2025__20260202_082449.pdf"
-          },
-          {
-            "name": "January 2026",
-            "url": "/uploads/student_zone/January_2026_20260804_061350.pdf"
-          },
-          {
-            "name": "February 2026",
-            "url": "/uploads/student_zone/February_2026_20260804_063947.pdf"
-          },
-          {
-            "name": "March 2026",
-            "url": "/uploads/student_zone/March_2026_20260804_064047.pdf"
-          },
-          {
-            "name": "April 2026",
-            "url": "/uploads/student_zone/April_2026_20260804_064129.pdf"
-          },
-          {
-            "name": "June 2026",
-            "url": "/uploads/student_zone/June_2026_20260804_071641.pdf"
-          },
-          {
-            "name": "May 2026",
-            "url": "/uploads/student_zone/May_2026_20260804_075916.pdf"
-          },
-          {
-            "name": "Tybams 22-23 march",
-            "url": "/uploads/student_zone/Tybams_22-23_march__20260821_101008.pdf"
-          },
-          {
-            "name": "Tybams 22-23 April",
-            "url": "/uploads/student_zone/Tybams_22-23_April_20260821_101337.pdf"
-          },
-          {
-            "name": "Tybams 22-23 May",
-            "url": "/uploads/student_zone/Tybams_22-23_May_20260821_110001.pdf"
-          },
-          {
-            "name": "Tybams 22-23 June",
-            "url": "/uploads/student_zone/Tybams_22-23_June_20260821_110051.pdf"
-          },
-          {
-            "name": "Tybams 22-23 july",
-            "url": "/uploads/student_zone/Tybams_22-23_july_20260821_110141.pdf"
-          }
-        ]
+        "name": "April 2025",
+        "url": "/uploads/student_zone/April_2025_20260202_080433.pdf"
+      },
+      {
+        "name": "May 2025",
+        "url": "/uploads/student_zone/May_2025_20260202_081214.pdf"
+      },
+      {
+        "name": "June 2025",
+        "url": "/uploads/student_zone/June_2025_20260202_081251.pdf"
+      },
+      {
+        "name": "July 2025",
+        "url": "/uploads/student_zone/July_2025_20260202_081343.pdf"
+      },
+      {
+        "name": "August 2025",
+        "url": "/uploads/student_zone/August_2025_20260202_081453.pdf"
+      },
+      {
+        "name": "September 2025",
+        "url": "/uploads/student_zone/September_2025_20260202_082211.pdf"
+      },
+      {
+        "name": "October 2025",
+        "url": "/uploads/student_zone/October_2025_20260202_082303.pdf"
+      },
+      {
+        "name": "November 2025",
+        "url": "/uploads/student_zone/November_2025_20260202_082348.pdf"
+      },
+      {
+        "name": "December 2025",
+        "url": "/uploads/student_zone/December_2025__20260202_082449.pdf"
+      },
+      {
+        "name": "January 2026",
+        "url": "/uploads/student_zone/January_2026_20260804_061350.pdf"
+      },
+      {
+        "name": "February 2026",
+        "url": "/uploads/student_zone/February_2026_20260804_063947.pdf"
+      },
+      {
+        "name": "March 2026",
+        "url": "/uploads/student_zone/March_2026_20260804_064047.pdf"
+      },
+      {
+        "name": "April 2026",
+        "url": "/uploads/student_zone/April_2026_20260804_064129.pdf"
+      },
+      {
+        "name": "June 2026",
+        "url": "/uploads/student_zone/June_2026_20260804_071641.pdf"
+      },
+      {
+        "name": "May 2026",
+        "url": "/uploads/student_zone/May_2026_20260804_075916.pdf"
+      },
+      {
+        "name": "Tybams 22-23 march",
+        "url": "/uploads/student_zone/Tybams_22-23_march__20260821_101008.pdf"
+      },
+      {
+        "name": "Tybams 22-23 April",
+        "url": "/uploads/student_zone/Tybams_22-23_April_20260821_101337.pdf"
+      },
+      {
+        "name": "Tybams 22-23 May",
+        "url": "/uploads/student_zone/Tybams_22-23_May_20260821_110001.pdf"
+      },
+      {
+        "name": "Tybams 22-23 June",
+        "url": "/uploads/student_zone/Tybams_22-23_June_20260821_110051.pdf"
+      },
+      {
+        "name": "Tybams 22-23 july",
+        "url": "/uploads/student_zone/Tybams_22-23_july_20260821_110141.pdf"
       }
     ]
   }

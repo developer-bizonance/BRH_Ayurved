@@ -550,21 +550,21 @@ export default function Header() {
           className={`xl:hidden fixed top-0 left-0 h-full w-[85%] max-w-[320px] bg-white z-[101] shadow-2xl overflow-y-auto transition-transform duration-300 transform ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}`}
         >
           {/* Drawer Header */}
-          <div className="p-2 sm:p-3 border-b border-gray-100 flex items-center justify-between sticky top-0 bg-white z-10 overflow-hidden">
-            <div className="flex items-center gap-1 sm:gap-2 flex-1 min-w-0">
-              <div className="w-[38px] h-[38px] sm:w-[45px] sm:h-[45px] rounded-full overflow-hidden flex items-center justify-center shrink-0">
+          <div className="p-3 sm:p-4 border-b border-gray-100 flex items-center justify-between sticky top-0 bg-white z-10 overflow-hidden">
+            <div className="flex items-center gap-2 flex-1 min-w-0">
+              <div className="w-[48px] h-[48px] sm:w-[55px] sm:h-[55px] rounded-full overflow-hidden flex items-center justify-center shrink-0">
                 <Image
                   src="/logo.png"
                   alt="B.R. Harne Logo"
-                  width={60}
-                  height={60}
+                  width={70}
+                  height={70}
                   className="object-cover w-full h-full"
                   unoptimized
                 />
               </div>
-              <div className="flex flex-col gap-0 flex-1 min-w-0">
-                <span className="text-[#e8821a] font-bold text-[9.5px] sm:text-[11px] uppercase leading-tight whitespace-nowrap tracking-tight truncate">Jai Shree Siddhivinayak Foundation</span>
-                <span className="text-[#57B745] font-bold text-[12px] sm:text-[13px] leading-tight tracking-tighter">B. R. Harne Ayurvedic Medical College Karav-Vangani</span>
+              <div className="flex flex-col gap-0.5 flex-1 min-w-0">
+                <span className="text-[#e8821a] font-bold text-[10px] sm:text-[11px] uppercase leading-tight whitespace-nowrap tracking-tight truncate">Jai Shree Siddhivinayak Foundation</span>
+                <span className="text-[#57B745] font-bold text-[13px] sm:text-[14px] leading-tight tracking-tighter">B. R. Harne Ayurvedic Medical College Karav-Vangani</span>
               </div>
             </div>
             <button onClick={() => setMobileOpen(false)} className="p-1 ml-1 text-gray-500 hover:bg-gray-100 rounded-full transition-colors shrink-0">
