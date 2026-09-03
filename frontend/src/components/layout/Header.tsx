@@ -194,6 +194,10 @@ const navItems: NavItem[] = [
       {
         "label": "Clinical Laboratory",
         "href": "/hospital/clinical-laboratory"
+      },
+      {
+        "label": "Medical Health Check-up Camps",
+        "href": "/hospital/health-checkup-camps"
       }
     ]
   },
@@ -311,6 +315,10 @@ const navItems: NavItem[] = [
       {
         "label": "Student Attendance List",
         "href": "/student-zone/attendance-list"
+      },
+      {
+        "label": "Educational Visits",
+        "href": "/student-zone/educational-visits"
       }
     ]
   },
