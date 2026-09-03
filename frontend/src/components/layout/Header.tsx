@@ -366,15 +366,15 @@ export default function Header() {
         <div className="max-w-[1600px] mx-auto px-2 lg:px-6">
           <div className="flex flex-row items-center justify-between gap-2 sm:gap-4">
             {/* Left Section: Logo + Divider + Text */}
-            <div className="flex flex-row items-center gap-1.5 sm:gap-4 md:gap-6 md:ml-6 lg:ml-20 xl:ml-32 w-full lg:w-auto text-left">
+            <div className="flex flex-row items-center gap-2 sm:gap-4 md:gap-6 md:ml-2 lg:ml-10 xl:ml-20 w-full lg:w-auto text-left flex-1">
               {/* Left Logo */}
               <Link href="/" className="shrink-0">
-                <div className="w-[60px] h-[60px] sm:w-[90px] sm:h-[90px] md:w-[140px] md:h-[140px] rounded-full overflow-hidden flex items-center justify-center">
+                <div className="w-[75px] h-[75px] sm:w-[90px] sm:h-[90px] md:w-[120px] md:h-[120px] lg:w-[150px] lg:h-[150px] xl:w-[180px] xl:h-[180px] rounded-full overflow-hidden flex items-center justify-center">
                   <Image
                     src="/logo.png"
                     alt="B.R. Harne Logo"
-                    width={160}
-                    height={160}
+                    width={220}
+                    height={220}
                     className="object-cover w-full h-full"
                     unoptimized
                   />
@@ -382,20 +382,20 @@ export default function Header() {
               </Link>
 
               {/* Vertical Orange Divider */}
-              <div className="w-0.5 sm:w-1 md:w-1.5 h-16 sm:h-20 md:h-32 bg-[#e8821a] shrink-0"></div>
+              <div className="w-[3px] sm:w-1 md:w-1.5 h-[70px] sm:h-20 md:h-28 lg:h-36 xl:h-44 bg-[#e8821a] shrink-0 rounded-full"></div>
 
               {/* Text */}
-              <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2">
-                <p className="text-[7px] sm:text-[10px] md:text-sm lg:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 tracking-wider uppercase leading-tight sm:leading-snug">
+              <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2 md:px-4 min-w-0">
+                <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-base xl:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 md:mb-1.5 tracking-wider uppercase leading-tight sm:leading-snug whitespace-nowrap truncate">
                   "Jai Shree Siddhivinayak Foundation"
                 </p>
-                <h1 className="text-[9.5px] sm:text-[14px] md:text-xl lg:text-2xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2">
+                <h1 className="text-[13px] sm:text-[14px] md:text-[1.3rem] lg:text-[1.6rem] xl:text-4xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 xl:mb-3 whitespace-nowrap tracking-tight truncate">
                   B. R. Harne Ayurvedic Medical College Karav-Vangani
                 </h1>
-                <div className="flex flex-col items-start gap-0.5 text-[5.5px] sm:text-[8px] md:text-[11px] text-gray-800 font-medium">
-                  <p className="leading-[1.1]">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
-                  <p className="leading-[1.1]">Affiliated to - Maharashtra University of Health Science, Nashik</p>
-                  <p className="leading-[1.1]">Permitted By - Government of Maharashtra</p>
+                <div className="flex flex-col items-start gap-0.5 sm:gap-1 text-[8px] sm:text-[9px] md:text-[10px] lg:text-xs xl:text-[14px] text-gray-800 font-medium w-full">
+                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
+                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Affiliated to - Maharashtra University of Health Science, Nashik</p>
+                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Permitted By - Government of Maharashtra</p>
                 </div>
               </div>
             </div>
@@ -542,9 +542,9 @@ export default function Header() {
           className={`xl:hidden fixed top-0 left-0 h-full w-[85%] max-w-[320px] bg-white z-[101] shadow-2xl overflow-y-auto transition-transform duration-300 transform ${mobileOpen ? 'translate-x-0' : '-translate-x-full'}`}
         >
           {/* Drawer Header */}
-          <div className="p-4 border-b border-gray-100 flex items-center justify-between sticky top-0 bg-white z-10">
-            <div className="flex items-center gap-3">
-              <div className="w-[45px] h-[45px] rounded-full overflow-hidden flex items-center justify-center shrink-0">
+          <div className="p-2 sm:p-3 border-b border-gray-100 flex items-center justify-between sticky top-0 bg-white z-10 overflow-hidden">
+            <div className="flex items-center gap-1 sm:gap-2 flex-1 min-w-0">
+              <div className="w-[38px] h-[38px] sm:w-[45px] sm:h-[45px] rounded-full overflow-hidden flex items-center justify-center shrink-0">
                 <Image
                   src="/logo.png"
                   alt="B.R. Harne Logo"
@@ -554,12 +554,12 @@ export default function Header() {
                   unoptimized
                 />
               </div>
-              <div className="flex flex-col">
-                <span className="text-[#e8821a] font-bold text-[10px] uppercase leading-tight">Jai Shree Siddhivinayak</span>
-                <span className="text-[#57B745] font-bold text-[11px] leading-tight">B. R. Harne Ayurvedic Medical College</span>
+              <div className="flex flex-col gap-0 flex-1 min-w-0">
+                <span className="text-[#e8821a] font-bold text-[9.5px] sm:text-[11px] uppercase leading-tight whitespace-nowrap tracking-tight truncate">Jai Shree Siddhivinayak Foundation</span>
+                <span className="text-[#57B745] font-bold text-[12px] sm:text-[13px] leading-tight tracking-tighter">B. R. Harne Ayurvedic Medical College Karav-Vangani</span>
               </div>
             </div>
-            <button onClick={() => setMobileOpen(false)} className="p-2 text-gray-500 hover:bg-gray-100 rounded-full transition-colors">
+            <button onClick={() => setMobileOpen(false)} className="p-1 ml-1 text-gray-500 hover:bg-gray-100 rounded-full transition-colors shrink-0">
               <X size={20} />
             </button>
           </div>

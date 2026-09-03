@@ -1,5 +1,0 @@
-[
-  { "id": 1, "name": "Sample Staff", "designation": "Office Superintendent", "department": "Administration", "photo": null },
-  { "id": 2, "name": "Another Staff", "designation": "Librarian", "department": "Library", "photo": null },
-  { "id": 3, "name": "Support Staff", "designation": "Lab Technician", "department": "Laboratory", "photo": null }
-]
