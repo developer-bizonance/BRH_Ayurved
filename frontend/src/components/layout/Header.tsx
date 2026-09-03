@@ -374,15 +374,15 @@ export default function Header() {
         <div className="max-w-[1600px] mx-auto px-2 lg:px-6">
           <div className="flex flex-row items-center justify-between gap-2 sm:gap-4">
             {/* Left Section: Logo + Divider + Text */}
-            <div className="flex flex-row items-center gap-2 sm:gap-4 md:gap-6 md:ml-2 lg:ml-10 xl:ml-20 w-full lg:w-auto text-left flex-1">
+            <div className="flex flex-row items-center gap-2 sm:gap-4 md:gap-6 md:ml-6 lg:ml-20 xl:ml-32 w-full lg:w-auto text-left">
               {/* Left Logo */}
               <Link href="/" className="shrink-0">
-                <div className="w-[75px] h-[75px] sm:w-[90px] sm:h-[90px] md:w-[120px] md:h-[120px] lg:w-[150px] lg:h-[150px] xl:w-[180px] xl:h-[180px] rounded-full overflow-hidden flex items-center justify-center">
+                <div className="w-[75px] h-[75px] sm:w-[90px] sm:h-[90px] md:w-[140px] md:h-[140px] rounded-full overflow-hidden flex items-center justify-center">
                   <Image
                     src="/logo.png"
                     alt="B.R. Harne Logo"
-                    width={220}
-                    height={220}
+                    width={160}
+                    height={160}
                     className="object-cover w-full h-full"
                     unoptimized
                   />
@@ -390,20 +390,20 @@ export default function Header() {
               </Link>
 
               {/* Vertical Orange Divider */}
-              <div className="w-[3px] sm:w-1 md:w-1.5 h-[70px] sm:h-20 md:h-28 lg:h-36 xl:h-44 bg-[#e8821a] shrink-0 rounded-full"></div>
+              <div className="w-[3px] sm:w-1 md:w-1.5 h-[70px] sm:h-20 md:h-32 bg-[#e8821a] shrink-0"></div>
 
               {/* Text */}
-              <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2 md:px-4 min-w-0">
-                <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-base xl:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 md:mb-1.5 tracking-wider uppercase leading-tight sm:leading-snug md:whitespace-nowrap md:overflow-hidden md:text-ellipsis">
+              <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2 min-w-0">
+                <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 tracking-wider uppercase leading-tight sm:leading-snug">
                   "Jai Shree Siddhivinayak Foundation"
                 </p>
-                <h1 className="text-[11px] sm:text-[14px] md:text-[1.3rem] lg:text-[1.6rem] xl:text-4xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 xl:mb-3 whitespace-nowrap tracking-tight">
+                <h1 className="text-[11px] sm:text-[14px] md:text-xl lg:text-2xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 whitespace-nowrap tracking-tight">
                   B. R. Harne Ayurvedic Medical College Karav-Vangani
                 </h1>
-                <div className="flex flex-col items-start gap-0.5 sm:gap-1 text-[8px] sm:text-[9px] md:text-[10px] lg:text-xs xl:text-[14px] text-gray-800 font-medium w-full">
-                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
-                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Affiliated to - Maharashtra University of Health Science, Nashik</p>
-                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Permitted By - Government of Maharashtra</p>
+                <div className="flex flex-col items-start gap-0.5 text-[8px] sm:text-[9px] md:text-[11px] text-gray-800 font-medium">
+                  <p className="leading-[1.1]">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
+                  <p className="leading-[1.1]">Affiliated to - Maharashtra University of Health Science, Nashik</p>
+                  <p className="leading-[1.1]">Permitted By - Government of Maharashtra</p>
                 </div>
               </div>
             </div>
