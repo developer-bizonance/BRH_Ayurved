@@ -397,7 +397,7 @@ export default function Header() {
                 <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 tracking-wider uppercase leading-tight sm:leading-snug">
                   "Jai Shree Siddhivinayak Foundation"
                 </p>
-                <h1 className="text-[11px] sm:text-[14px] md:text-xl lg:text-2xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 whitespace-nowrap tracking-tight">
+                <h1 className="text-[11px] sm:text-[14px] md:text-[1.35rem] lg:text-[1.7rem] font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 whitespace-nowrap tracking-tight">
                   B. R. Harne Ayurvedic Medical College Karav-Vangani
                 </h1>
                 <div className="flex flex-col items-start gap-0.5 text-[8px] sm:text-[9px] md:text-[11px] text-gray-800 font-medium">
