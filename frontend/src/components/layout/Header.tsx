@@ -386,16 +386,16 @@ export default function Header() {
 
               {/* Text */}
               <div className="flex-1 flex flex-col justify-center px-0.5 sm:px-2 md:px-4 min-w-0">
-                <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-base xl:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 md:mb-1.5 tracking-wider uppercase leading-tight sm:leading-snug whitespace-nowrap truncate">
+                <p className="text-[10px] sm:text-[11px] md:text-sm lg:text-base xl:text-lg text-[#e8821a] font-bold mb-0.5 sm:mb-1 md:mb-1.5 tracking-wider uppercase leading-tight sm:leading-snug md:whitespace-nowrap md:overflow-hidden md:text-ellipsis">
                   "Jai Shree Siddhivinayak Foundation"
                 </p>
-                <h1 className="text-[13px] sm:text-[14px] md:text-[1.3rem] lg:text-[1.6rem] xl:text-4xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 xl:mb-3 whitespace-nowrap tracking-tight truncate">
+                <h1 className="text-[11px] sm:text-[14px] md:text-[1.3rem] lg:text-[1.6rem] xl:text-4xl font-bold text-[#57B745] font-[var(--font-playfair)] leading-tight mb-0.5 sm:mb-1 md:mb-2 xl:mb-3 whitespace-nowrap tracking-tight">
                   B. R. Harne Ayurvedic Medical College Karav-Vangani
                 </h1>
                 <div className="flex flex-col items-start gap-0.5 sm:gap-1 text-[8px] sm:text-[9px] md:text-[10px] lg:text-xs xl:text-[14px] text-gray-800 font-medium w-full">
-                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
-                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Affiliated to - Maharashtra University of Health Science, Nashik</p>
-                  <p className="leading-[1.2] whitespace-nowrap truncate w-full">Permitted By - Government of Maharashtra</p>
+                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Recognised by - Central Council of Indian Medicine & Ministry of AYUSH, Delhi</p>
+                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Affiliated to - Maharashtra University of Health Science, Nashik</p>
+                  <p className="leading-[1.2] md:whitespace-nowrap md:overflow-hidden md:text-ellipsis w-full">Permitted By - Government of Maharashtra</p>
                 </div>
               </div>
             </div>
