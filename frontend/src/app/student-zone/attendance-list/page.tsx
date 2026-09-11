@@ -86,6 +86,10 @@ const sections = [
       {
         "name": "July 2026",
         "url": "/uploads/student_zone/July_2026_20260818_051411.pdf"
+      },
+      {
+        "name": "August 2026",
+        "url": "/uploads/student_zone/August_2026.pdf"
       }
     ]
   },
@@ -171,6 +175,14 @@ const sections = [
       {
         "name": "Sy batch 24-25 July 2026",
         "url": "/uploads/student_zone/Sy_batch_24-25_July_2026_20260821_091425.pdf"
+      },
+      {
+        "name": "SYBAMS (2024-25) MONTHLY ATTENDANCE- AUG 2026",
+        "url": "/uploads/student_zone/SYBAMS%20(2024-25)%20MONTHLY%20ATTENDANCE%20%20AUGUST-2026.pdf"
+      },
+      {
+        "name": "SYBAMS (2023-24) MONTHLY ATTENDANCE- AUG 2026",
+        "url": "/uploads/student_zone/SYBAMS%20(2023-24)%20MONTHLY%20ATTENDANCE%20AUGUST-2026.pdf"
       }
     ]
   },

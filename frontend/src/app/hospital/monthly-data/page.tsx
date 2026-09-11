@@ -21,7 +21,8 @@ const opdData = [
   { "name": "March 2026", "url": "/uploads/hospital/March 202620260408_050521.pdf" },
   { "name": "April 2026", "url": "/uploads/hospital/April 202620260509_121624.pdf" },
   { "name": "May 2026", "url": "/uploads/hospital/May 202620260615_100815.pdf" },
-  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025003.pdf" }
+  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025003.pdf" },
+  { "name": "August 2026", "url": "/uploads/hospital/August_2026_OPD.pdf" }
 ];
 
 const ipdData = [
@@ -42,7 +43,8 @@ const ipdData = [
   { "name": "March 2026", "url": "/uploads/hospital/March 202620260408_050551.pdf" },
   { "name": "April 2026", "url": "/uploads/hospital/April 202620260509_121652.pdf" },
   { "name": "May 2026", "url": "/uploads/hospital/May 202620260615_100853.pdf" },
-  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025035.pdf" }
+  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025035.pdf" },
+  { "name": "August 2026", "url": "/uploads/hospital/August_2026_IPD.pdf" }
 ];
 
 const bedOccupancyData = [
@@ -63,7 +65,8 @@ const bedOccupancyData = [
   { "name": "March 2026", "url": "/uploads/hospital/March 202620260408_050628.pdf" },
   { "name": "April 2026", "url": "/uploads/hospital/April 202620260509_121722.pdf" },
   { "name": "May 2026", "url": "/uploads/hospital/May 202620260615_100924.pdf" },
-  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025115.pdf" }
+  { "name": "June 2026", "url": "/uploads/hospital/June 202620260712_025115.pdf" },
+  { "name": "August 2026", "url": "/uploads/hospital/August_2026_Bed_Occupancy.pdf" }
 ];
 
 const medicalSurgicalData = [
@@ -84,7 +87,8 @@ const medicalSurgicalData = [
   { "name": "March 2026", "url": "/uploads/hospital/March 202620260420_093840.pdf" },
   { "name": "April 2026", "url": "/uploads/hospital/April 202620260509_121751.pdf" },
   { "name": "May 2026", "url": "/uploads/hospital/May 202620260615_101004.pdf" },
-  { "name": "June 2026", "url": "/uploads/hospital/June 202620260716_060755.pdf" }
+  { "name": "June 2026", "url": "/uploads/hospital/June 202620260716_060755.pdf" },
+  { "name": "August 2026", "url": "/uploads/hospital/August_2026_Medical_Surgical.pdf" }
 ];
 
 const monthlyData = [

@@ -31,7 +31,8 @@ const documentsData = [
       { name: "REPORT OF SURYANAMSKAR DAY", url: "/uploads/about/REPORT OF SURYANAMSKAR DAY20260123_115827.pdf" },
       { name: "Ayush Expo 2025", url: "/uploads/about/Ayush Expo 202520260124_094952.pdf" },
       { name: "Charak Jayanti 2025", url: "/uploads/about/Charak Jayanti 202520260227_095632.pdf" },
-      { name: "Blood Donation Camp 2025-26", url: "/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf" }
+      { name: "Blood Donation Camp 2025-26", url: "/uploads/about/Blood Donation Camp 2025-2620260306_114717.pdf" },
+      { name: "sanskrit day Report 3-9-26.pdf", url: "/uploads/whats_new/sanskrit%20day%20Report%203-9-26.pdf" }
     ]
   }
 ];

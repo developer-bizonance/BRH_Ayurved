@@ -8,7 +8,8 @@ export const mockData = {
     { id: 5, title: 'Summer Vacation 2026', url: '/uploads/whats_new/Summer Vacation 202620260518_020754.pdf', isNew: true, date: '2026-05-18' },
     { id: 6, title: 'International Yoga Day 2026', url: '/uploads/whats_new/International Yoga Day 202620260702_070135.pdf', isNew: true, date: '2026-07-02' },
     { id: 7, title: 'Community health check up Camp 2025', url: '/uploads/whats_new/Community health check up Camp 202520260824_075638.pdf', isNew: true, date: '2026-08-24' },
-    { id: 8, title: 'Community health check up Camp 2026', url: '/uploads/whats_new/Community health check up Camp 202620260824_075716.pdf', isNew: true, date: '2026-08-24' }
+    { id: 8, title: 'Community health check up Camp 2026', url: '/uploads/whats_new/Community health check up Camp 202620260824_075716.pdf', isNew: true, date: '2026-08-24' },
+    { id: 9, title: 'sanskrit day Report 3-9-26.pdf', url: '/uploads/whats_new/sanskrit%20day%20Report%203-9-26.pdf', isNew: true, date: '2026-09-11' }
   ],
   teachingStaff: [
     {
