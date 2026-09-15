@@ -268,6 +268,10 @@ const sections = [
       {
         "name": "Tybams 22-23 july",
         "url": "/uploads/student_zone/Tybams_22-23_july_20260821_110141.pdf"
+      },
+      {
+        "name": "August 2026",
+        "url": "/uploads/student_zone/TYBAMS_August_2026.pdf"
       }
     ]
   }
