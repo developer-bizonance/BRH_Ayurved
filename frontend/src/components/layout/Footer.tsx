@@ -160,14 +160,16 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-2 text-sm text-gray-500">
             <span>Developed by</span>
-            <Image 
-              src="/images/bizonance_logo.png" 
-              alt="BiZONANCE" 
-              width={100} 
-              height={24} 
-              className="object-contain h-6 w-auto"
-              unoptimized
-            />
+            <a href="https://www.bizonance.com/" target="_blank" rel="noopener noreferrer" className="cursor-pointer hover:opacity-80 transition-opacity flex items-center">
+              <Image 
+                src="/images/bizonance_logo.png" 
+                alt="BiZONANCE" 
+                width={100} 
+                height={24} 
+                className="object-contain h-6 w-auto"
+                unoptimized
+              />
+            </a>
           </div>
         </div>
       </div>
