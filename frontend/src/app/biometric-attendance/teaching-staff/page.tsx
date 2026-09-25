@@ -67,6 +67,10 @@ const files = [
   {
     "name": "July 2026",
     "url": "/uploads/biometric_attendance/July 202620260819_094121.pdf"
+  },
+  {
+    "name": "August 2026",
+    "url": "/uploads/biometric_attendance/August 2026.pdf"
   }
 ];
 

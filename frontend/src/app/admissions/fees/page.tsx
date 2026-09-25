@@ -5,6 +5,10 @@ export const metadata = { title: "Fees Structure" };
 
 const documents = [
   {
+    "name": "ANNUAL FEES STRUCTURE - AY 2026-27",
+    "url": "/uploads/fees_structure/fees_structure_2026_27.pdf"
+  },
+  {
     "name": "ANNUAL FEES STRUCTURE - AY 2025-26",
     "url": "/uploads/fees_structure/fees_structure_20260507_085215.pdf"
   }
